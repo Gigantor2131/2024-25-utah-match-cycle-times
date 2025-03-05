@@ -1,0 +1,5117 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https:\/\/www.robotevents.com\/api\/v2\/events\/58200\/divisions\/1\/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https:\/\/www.robotevents.com\/api\/v2\/events\/58200\/divisions\/1\/matches?page=1",
+        "next_page_url": null,
+        "path": "https:\/\/www.robotevents.com\/api\/v2\/events\/58200\/divisions\/1\/matches",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 75,
+        "total": 75
+    },
+    "data": [
+        {
+            "id": 93677837,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": "2024-12-14T11:00:00-05:00",
+            "started": "2024-12-14T11:07:43-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677838,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2024-12-14T11:03:45-05:00",
+            "started": "2024-12-14T11:09:55-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677839,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2024-12-14T11:07:30-05:00",
+            "started": "2024-12-14T11:14:10-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677840,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2024-12-14T11:11:15-05:00",
+            "started": "2024-12-14T11:17:56-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677841,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2024-12-14T11:15:00-05:00",
+            "started": "2024-12-14T11:21:25-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677842,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 6,
+            "scheduled": "2024-12-14T11:18:45-05:00",
+            "started": "2024-12-14T11:25:04-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #6",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 110257,
+                                "name": "84075A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677843,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 7,
+            "scheduled": "2024-12-14T11:22:30-05:00",
+            "started": "2024-12-14T11:27:56-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #7",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677844,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2024-12-14T11:26:15-05:00",
+            "started": "2024-12-14T11:31:13-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 117676,
+                                "name": "2323D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677845,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2024-12-14T11:30:00-05:00",
+            "started": "2024-12-14T11:35:24-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677846,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2024-12-14T11:33:45-05:00",
+            "started": "2024-12-14T11:38:30-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677847,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 11,
+            "scheduled": "2024-12-14T11:37:30-05:00",
+            "started": "2024-12-14T11:41:45-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #11",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677848,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2024-12-14T11:41:15-05:00",
+            "started": "2024-12-14T11:46:18-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117676,
+                                "name": "2323D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 110257,
+                                "name": "84075A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677849,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 13,
+            "scheduled": "2024-12-14T11:45:00-05:00",
+            "started": "2024-12-14T11:49:15-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #13",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677850,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 14,
+            "scheduled": "2024-12-14T11:48:45-05:00",
+            "started": "2024-12-14T11:52:46-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #14",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677851,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 15,
+            "scheduled": "2024-12-14T11:52:30-05:00",
+            "started": "2024-12-14T11:55:41-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #15",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677852,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": "2024-12-14T11:56:15-05:00",
+            "started": "2024-12-14T11:58:45-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677853,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 17,
+            "scheduled": "2024-12-14T12:00:00-05:00",
+            "started": "2024-12-14T12:02:11-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #17",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117676,
+                                "name": "2323D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677854,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 18,
+            "scheduled": "2024-12-14T12:03:45-05:00",
+            "started": "2024-12-14T12:04:41-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #18",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677855,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 19,
+            "scheduled": "2024-12-14T12:07:30-05:00",
+            "started": "2024-12-14T12:08:11-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #19",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 110257,
+                                "name": "84075A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677856,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 20,
+            "scheduled": "2024-12-14T12:11:15-05:00",
+            "started": "2024-12-14T12:10:43-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #20",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677857,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 21,
+            "scheduled": "2024-12-14T12:15:00-05:00",
+            "started": "2024-12-14T12:13:50-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #21",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677858,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 22,
+            "scheduled": "2024-12-14T12:18:45-05:00",
+            "started": "2024-12-14T12:16:26-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #22",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677859,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2024-12-14T12:22:30-05:00",
+            "started": "2024-12-14T12:22:09-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677860,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 24,
+            "scheduled": "2024-12-14T12:26:15-05:00",
+            "started": "2024-12-14T12:25:21-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #24",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677861,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 25,
+            "scheduled": "2024-12-14T12:30:00-05:00",
+            "started": "2024-12-14T12:28:08-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #25",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677862,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2024-12-14T12:33:45-05:00",
+            "started": "2024-12-14T12:31:19-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677863,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 27,
+            "scheduled": "2024-12-14T12:37:30-05:00",
+            "started": "2024-12-14T12:33:48-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #27",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117676,
+                                "name": "2323D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677864,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 28,
+            "scheduled": "2024-12-14T12:41:15-05:00",
+            "started": "2024-12-14T12:43:21-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #28",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677865,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 29,
+            "scheduled": "2024-12-14T12:45:00-05:00",
+            "started": "2024-12-14T12:45:55-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #29",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 110257,
+                                "name": "84075A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677866,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 30,
+            "scheduled": "2024-12-14T12:48:45-05:00",
+            "started": "2024-12-14T12:48:50-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #30",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677867,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 31,
+            "scheduled": "2024-12-14T12:52:30-05:00",
+            "started": "2024-12-14T12:51:40-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #31",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677868,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 32,
+            "scheduled": "2024-12-14T12:56:15-05:00",
+            "started": "2024-12-14T12:55:19-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #32",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677869,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2024-12-14T13:00:00-05:00",
+            "started": "2024-12-14T12:57:50-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117676,
+                                "name": "2323D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677870,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 34,
+            "scheduled": "2024-12-14T13:03:45-05:00",
+            "started": "2024-12-14T13:04:13-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #34",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677871,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 35,
+            "scheduled": "2024-12-14T13:07:30-05:00",
+            "started": "2024-12-14T13:07:16-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #35",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677872,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 36,
+            "scheduled": "2024-12-14T13:11:15-05:00",
+            "started": "2024-12-14T13:10:21-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #36",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677873,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 37,
+            "scheduled": "2024-12-14T13:15:00-05:00",
+            "started": "2024-12-14T13:13:00-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #37",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677874,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 38,
+            "scheduled": "2024-12-14T13:18:45-05:00",
+            "started": "2024-12-14T13:16:59-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #38",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677875,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 39,
+            "scheduled": "2024-12-14T13:22:30-05:00",
+            "started": "2024-12-14T13:19:33-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #39",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677876,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 40,
+            "scheduled": "2024-12-14T13:26:15-05:00",
+            "started": "2024-12-14T13:22:10-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #40",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 110257,
+                                "name": "84075A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677877,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 41,
+            "scheduled": "2024-12-14T13:30:00-05:00",
+            "started": "2024-12-14T13:28:46-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #41",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117676,
+                                "name": "2323D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 49,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677878,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 42,
+            "scheduled": "2024-12-14T13:33:45-05:00",
+            "started": "2024-12-14T13:31:32-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #42",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677879,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 43,
+            "scheduled": "2024-12-14T13:37:30-05:00",
+            "started": "2024-12-14T13:34:27-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #43",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677880,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 44,
+            "scheduled": "2024-12-14T13:41:15-05:00",
+            "started": "2024-12-14T13:38:25-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #44",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677881,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 45,
+            "scheduled": "2024-12-14T13:45:00-05:00",
+            "started": "2024-12-14T13:41:17-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #45",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677882,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 46,
+            "scheduled": "2024-12-14T13:48:45-05:00",
+            "started": "2024-12-14T13:44:46-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #46",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 110257,
+                                "name": "84075A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677883,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 47,
+            "scheduled": "2024-12-14T13:52:30-05:00",
+            "started": "2024-12-14T13:48:04-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #47",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677884,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 48,
+            "scheduled": "2024-12-14T13:56:15-05:00",
+            "started": "2024-12-14T14:06:14-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #48",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677885,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 49,
+            "scheduled": "2024-12-14T15:00:00-05:00",
+            "started": "2024-12-14T14:03:41-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #49",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 117676,
+                                "name": "2323D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677886,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 50,
+            "scheduled": "2024-12-14T15:03:45-05:00",
+            "started": "2024-12-14T15:04:00-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #50",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677887,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 51,
+            "scheduled": "2024-12-14T15:07:30-05:00",
+            "started": "2024-12-14T15:08:10-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #51",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677888,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 52,
+            "scheduled": "2024-12-14T15:11:15-05:00",
+            "started": "2024-12-14T15:11:48-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #52",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677889,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 53,
+            "scheduled": "2024-12-14T15:15:00-05:00",
+            "started": "2024-12-14T15:16:04-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #53",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 110257,
+                                "name": "84075A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677890,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 54,
+            "scheduled": "2024-12-14T15:18:45-05:00",
+            "started": "2024-12-14T15:19:49-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #54",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677891,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 55,
+            "scheduled": "2024-12-14T15:22:30-05:00",
+            "started": "2024-12-14T15:23:24-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #55",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677892,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 56,
+            "scheduled": "2024-12-14T15:26:15-05:00",
+            "started": "2024-12-14T15:26:26-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #56",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677893,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 57,
+            "scheduled": "2024-12-14T15:30:00-05:00",
+            "started": "2024-12-14T15:30:06-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #57",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677894,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 58,
+            "scheduled": "2024-12-14T15:33:45-05:00",
+            "started": "2024-12-14T15:33:43-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #58",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 52,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677895,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 59,
+            "scheduled": "2024-12-14T15:37:30-05:00",
+            "started": "2024-12-14T15:37:35-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #59",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117676,
+                                "name": "2323D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677896,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 60,
+            "scheduled": "2024-12-14T15:41:15-05:00",
+            "started": "2024-12-14T15:44:20-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #60",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677897,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 61,
+            "scheduled": "2024-12-14T15:45:00-05:00",
+            "started": "2024-12-14T15:46:52-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #61",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677898,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 62,
+            "scheduled": "2024-12-14T15:48:45-05:00",
+            "started": "2024-12-14T15:50:55-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #62",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677899,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 63,
+            "scheduled": "2024-12-14T15:52:30-05:00",
+            "started": "2024-12-14T15:53:22-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Qualifier #63",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677900,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 64,
+            "scheduled": "2024-12-14T15:56:15-05:00",
+            "started": "2024-12-14T15:58:26-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "Qualifier #64",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 110257,
+                                "name": "84075A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677905,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-14T16:52:41-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677906,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-14T16:55:11-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "QF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677907,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 3,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-14T17:04:04-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "QF #3-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677908,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-14T17:06:45-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 110257,
+                                "name": "84075A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677909,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-14T17:10:54-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677910,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 4,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-14T17:14:53-05:00",
+            "field": null,
+            "scored": false,
+            "name": "SF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677911,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-14T17:24:42-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "Final #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677901,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-14T16:33:42-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "R16 #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677902,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-14T16:36:33-05:00",
+            "field": "Rino",
+            "scored": false,
+            "name": "R16 #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117676,
+                                "name": "2323D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677903,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 6,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-14T16:41:21-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "R16 #6-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        },
+        {
+            "id": 93677904,
+            "event": {
+                "id": 58200,
+                "name": "Weber Innovation VEX V5 Robotics Competition: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-8200"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 8,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-14T16:43:50-05:00",
+            "field": "Raven",
+            "scored": false,
+            "name": "R16 #8-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 110257,
+                                "name": "84075A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-14T17:38:01-05:00"
+        }
+    ]
+}

@@ -1,0 +1,5593 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https:\/\/www.robotevents.com\/api\/v2\/events\/56156\/divisions\/1\/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https:\/\/www.robotevents.com\/api\/v2\/events\/56156\/divisions\/1\/matches?page=1",
+        "next_page_url": null,
+        "path": "https:\/\/www.robotevents.com\/api\/v2\/events\/56156\/divisions\/1\/matches",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 82,
+        "total": 82
+    },
+    "data": [
+        {
+            "id": 105107652,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": "2025-02-15T12:00:00-05:00",
+            "started": "2025-02-15T12:11:28-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107653,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2025-02-15T12:03:30-05:00",
+            "started": "2025-02-15T12:13:57-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 88793,
+                                "name": "9776C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 117676,
+                                "name": "2323D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107654,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2025-02-15T12:07:00-05:00",
+            "started": "2025-02-15T12:19:49-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 137098,
+                                "name": "80804A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 52305,
+                                "name": "9776A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 177029,
+                                "name": "55117A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107655,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2025-02-15T12:10:30-05:00",
+            "started": "2025-02-15T12:22:49-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 49,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 147889,
+                                "name": "80804D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107656,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2025-02-15T12:14:00-05:00",
+            "started": "2025-02-15T12:26:51-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 147888,
+                                "name": "80804C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 141961,
+                                "name": "9776F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107657,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 6,
+            "scheduled": "2025-02-15T12:17:30-05:00",
+            "started": "2025-02-15T12:29:19-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #6",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 72475,
+                                "name": "9776B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 141962,
+                                "name": "9776G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107658,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 7,
+            "scheduled": "2025-02-15T12:21:00-05:00",
+            "started": "2025-02-15T12:31:47-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #7",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107659,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2025-02-15T12:24:30-05:00",
+            "started": "2025-02-15T12:34:13-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130284,
+                                "name": "9776E",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107660,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2025-02-15T12:28:00-05:00",
+            "started": "2025-02-15T12:36:46-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 147887,
+                                "name": "80804B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 52,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107661,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2025-02-15T12:31:30-05:00",
+            "started": "2025-02-15T12:39:45-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 105694,
+                                "name": "9776D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107662,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 11,
+            "scheduled": "2025-02-15T12:35:00-05:00",
+            "started": "2025-02-15T12:42:13-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #11",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177029,
+                                "name": "55117A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 88793,
+                                "name": "9776C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 147888,
+                                "name": "80804C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107663,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2025-02-15T12:38:30-05:00",
+            "started": "2025-02-15T12:44:38-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 141962,
+                                "name": "9776G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107664,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 13,
+            "scheduled": "2025-02-15T12:42:00-05:00",
+            "started": "2025-02-15T12:47:18-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #13",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130284,
+                                "name": "9776E",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 141961,
+                                "name": "9776F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 137098,
+                                "name": "80804A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107665,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 14,
+            "scheduled": "2025-02-15T12:45:30-05:00",
+            "started": "2025-02-15T12:49:41-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #14",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 147889,
+                                "name": "80804D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107666,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 15,
+            "scheduled": "2025-02-15T12:49:00-05:00",
+            "started": "2025-02-15T12:52:15-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #15",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 105694,
+                                "name": "9776D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107667,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": "2025-02-15T12:52:30-05:00",
+            "started": "2025-02-15T12:56:05-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107668,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 17,
+            "scheduled": "2025-02-15T12:56:00-05:00",
+            "started": "2025-02-15T12:58:33-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #17",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107669,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 18,
+            "scheduled": "2025-02-15T12:59:30-05:00",
+            "started": "2025-02-15T13:01:19-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #18",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107670,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 19,
+            "scheduled": "2025-02-15T13:03:00-05:00",
+            "started": "2025-02-15T13:05:35-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #19",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117676,
+                                "name": "2323D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 147887,
+                                "name": "80804B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107671,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 20,
+            "scheduled": "2025-02-15T13:06:30-05:00",
+            "started": "2025-02-15T13:08:13-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #20",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 52305,
+                                "name": "9776A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 72475,
+                                "name": "9776B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107672,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 21,
+            "scheduled": "2025-02-15T13:10:00-05:00",
+            "started": "2025-02-15T13:11:12-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #21",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177029,
+                                "name": "55117A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 141961,
+                                "name": "9776F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 105694,
+                                "name": "9776D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107673,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 22,
+            "scheduled": "2025-02-15T13:13:30-05:00",
+            "started": "2025-02-15T13:15:18-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #22",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130284,
+                                "name": "9776E",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107674,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2025-02-15T13:17:00-05:00",
+            "started": "2025-02-15T13:20:26-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107675,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 24,
+            "scheduled": "2025-02-15T13:20:30-05:00",
+            "started": "2025-02-15T13:23:14-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #24",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 88793,
+                                "name": "9776C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107676,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 25,
+            "scheduled": "2025-02-15T13:24:00-05:00",
+            "started": "2025-02-15T13:25:51-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #25",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 72475,
+                                "name": "9776B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107677,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2025-02-15T13:27:30-05:00",
+            "started": "2025-02-15T13:28:20-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 52305,
+                                "name": "9776A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 117676,
+                                "name": "2323D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 48,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107678,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 27,
+            "scheduled": "2025-02-15T13:31:00-05:00",
+            "started": "2025-02-15T13:30:46-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #27",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 1,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 141962,
+                                "name": "9776G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147889,
+                                "name": "80804D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107679,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 28,
+            "scheduled": "2025-02-15T13:34:30-05:00",
+            "started": "2025-02-15T13:34:00-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #28",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147888,
+                                "name": "80804C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 137098,
+                                "name": "80804A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107680,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 29,
+            "scheduled": "2025-02-15T13:38:00-05:00",
+            "started": "2025-02-15T13:36:26-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #29",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107681,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 30,
+            "scheduled": "2025-02-15T13:41:30-05:00",
+            "started": "2025-02-15T13:39:11-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #30",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 54,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 1,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 147887,
+                                "name": "80804B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107682,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 31,
+            "scheduled": "2025-02-15T13:45:00-05:00",
+            "started": "2025-02-15T13:43:21-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #31",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 141961,
+                                "name": "9776F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107683,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 32,
+            "scheduled": "2025-02-15T13:48:30-05:00",
+            "started": "2025-02-15T13:45:58-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #32",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107684,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2025-02-15T13:52:00-05:00",
+            "started": "2025-02-15T13:48:27-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130284,
+                                "name": "9776E",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 52305,
+                                "name": "9776A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107685,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 34,
+            "scheduled": "2025-02-15T13:55:30-05:00",
+            "started": "2025-02-15T13:51:17-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #34",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147888,
+                                "name": "80804C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 56,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107686,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 35,
+            "scheduled": "2025-02-15T13:59:00-05:00",
+            "started": "2025-02-15T13:53:45-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #35",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177029,
+                                "name": "55117A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 117676,
+                                "name": "2323D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 72475,
+                                "name": "9776B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107687,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 36,
+            "scheduled": "2025-02-15T15:00:00-05:00",
+            "started": "2025-02-15T15:03:58-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #36",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107688,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 37,
+            "scheduled": "2025-02-15T15:03:30-05:00",
+            "started": "2025-02-15T15:07:54-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #37",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147887,
+                                "name": "80804B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 105694,
+                                "name": "9776D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 141962,
+                                "name": "9776G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107689,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 38,
+            "scheduled": "2025-02-15T15:07:00-05:00",
+            "started": "2025-02-15T15:10:37-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #38",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147889,
+                                "name": "80804D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 88793,
+                                "name": "9776C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107690,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 39,
+            "scheduled": "2025-02-15T15:10:30-05:00",
+            "started": "2025-02-15T15:13:02-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #39",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 50,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107691,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 40,
+            "scheduled": "2025-02-15T15:14:00-05:00",
+            "started": "2025-02-15T15:18:44-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #40",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 137098,
+                                "name": "80804A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107692,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 41,
+            "scheduled": "2025-02-15T15:17:30-05:00",
+            "started": "2025-02-15T15:19:10-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #41",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130284,
+                                "name": "9776E",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107693,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 42,
+            "scheduled": "2025-02-15T15:21:00-05:00",
+            "started": "2025-02-15T15:21:37-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #42",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177029,
+                                "name": "55117A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107694,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 43,
+            "scheduled": "2025-02-15T15:24:30-05:00",
+            "started": "2025-02-15T15:24:15-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #43",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 141962,
+                                "name": "9776G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 52305,
+                                "name": "9776A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 88793,
+                                "name": "9776C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107695,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 44,
+            "scheduled": "2025-02-15T15:28:00-05:00",
+            "started": "2025-02-15T15:26:41-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #44",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147888,
+                                "name": "80804C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107696,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 45,
+            "scheduled": "2025-02-15T15:31:30-05:00",
+            "started": "2025-02-15T15:29:57-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #45",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147889,
+                                "name": "80804D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107697,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 46,
+            "scheduled": "2025-02-15T15:35:00-05:00",
+            "started": "2025-02-15T15:33:31-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #46",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 141961,
+                                "name": "9776F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107698,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 47,
+            "scheduled": "2025-02-15T15:38:30-05:00",
+            "started": "2025-02-15T15:36:10-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #47",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147887,
+                                "name": "80804B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107699,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 48,
+            "scheduled": "2025-02-15T15:42:00-05:00",
+            "started": "2025-02-15T15:38:51-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #48",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 137098,
+                                "name": "80804A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 105694,
+                                "name": "9776D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107700,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 49,
+            "scheduled": "2025-02-15T15:45:30-05:00",
+            "started": "2025-02-15T15:41:20-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #49",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 72475,
+                                "name": "9776B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107701,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 50,
+            "scheduled": "2025-02-15T15:49:00-05:00",
+            "started": "2025-02-15T15:44:00-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #50",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117676,
+                                "name": "2323D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107702,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 51,
+            "scheduled": "2025-02-15T15:52:30-05:00",
+            "started": "2025-02-15T15:47:08-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #51",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 52305,
+                                "name": "9776A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107703,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 52,
+            "scheduled": "2025-02-15T15:56:00-05:00",
+            "started": "2025-02-15T15:49:45-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #52",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147887,
+                                "name": "80804B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107704,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 53,
+            "scheduled": "2025-02-15T15:59:30-05:00",
+            "started": "2025-02-15T15:52:17-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #53",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 48,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 147889,
+                                "name": "80804D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130284,
+                                "name": "9776E",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107705,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 54,
+            "scheduled": "2025-02-15T16:03:00-05:00",
+            "started": "2025-02-15T15:54:58-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #54",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 177029,
+                                "name": "55117A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107706,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 55,
+            "scheduled": "2025-02-15T16:06:30-05:00",
+            "started": "2025-02-15T15:57:59-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #55",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 147888,
+                                "name": "80804C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 53,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107707,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 56,
+            "scheduled": "2025-02-15T16:10:00-05:00",
+            "started": "2025-02-15T16:00:32-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #56",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 72475,
+                                "name": "9776B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107708,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 57,
+            "scheduled": "2025-02-15T16:13:30-05:00",
+            "started": "2025-02-15T16:04:22-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #57",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117676,
+                                "name": "2323D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 141961,
+                                "name": "9776F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107709,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 58,
+            "scheduled": "2025-02-15T16:17:00-05:00",
+            "started": "2025-02-15T16:17:43-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #58",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 88793,
+                                "name": "9776C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107710,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 59,
+            "scheduled": "2025-02-15T16:20:30-05:00",
+            "started": "2025-02-15T16:09:14-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #59",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 141962,
+                                "name": "9776G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 137098,
+                                "name": "80804A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107711,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 60,
+            "scheduled": "2025-02-15T16:24:00-05:00",
+            "started": "2025-02-15T16:14:13-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #60",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 105694,
+                                "name": "9776D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107712,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 61,
+            "scheduled": "2025-02-15T16:27:30-05:00",
+            "started": null,
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #61",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 52305,
+                                "name": "9776A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 147888,
+                                "name": "80804C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107713,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 62,
+            "scheduled": "2025-02-15T16:31:00-05:00",
+            "started": null,
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #62",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107714,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 63,
+            "scheduled": "2025-02-15T16:34:30-05:00",
+            "started": null,
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #63",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 88793,
+                                "name": "9776C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147887,
+                                "name": "80804B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107715,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 64,
+            "scheduled": "2025-02-15T16:38:00-05:00",
+            "started": null,
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #64",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107716,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 65,
+            "scheduled": "2025-02-15T16:41:30-05:00",
+            "started": null,
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #65",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 137098,
+                                "name": "80804A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 147889,
+                                "name": "80804D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107717,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 66,
+            "scheduled": "2025-02-15T16:45:00-05:00",
+            "started": null,
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #66",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177029,
+                                "name": "55117A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107718,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 67,
+            "scheduled": "2025-02-15T16:48:30-05:00",
+            "started": null,
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #67",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 105694,
+                                "name": "9776D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 117676,
+                                "name": "2323D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107719,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 68,
+            "scheduled": "2025-02-15T16:52:00-05:00",
+            "started": null,
+            "field": "Field 2",
+            "scored": false,
+            "name": "Qualifier #68",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130284,
+                                "name": "9776E",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107720,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 69,
+            "scheduled": "2025-02-15T16:55:30-05:00",
+            "started": null,
+            "field": "Field 3",
+            "scored": false,
+            "name": "Qualifier #69",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 141962,
+                                "name": "9776G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107721,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 70,
+            "scheduled": "2025-02-15T16:59:00-05:00",
+            "started": null,
+            "field": "Field 1",
+            "scored": false,
+            "name": "Qualifier #70",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 141961,
+                                "name": "9776F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 72475,
+                                "name": "9776B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107727,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T17:18:30-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107728,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T17:28:38-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "QF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107729,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 3,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T17:24:29-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "QF #3-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 52305,
+                                "name": "9776A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107730,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T17:31:35-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107731,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T17:37:11-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107732,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 4,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T17:42:03-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "SF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107733,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T17:55:19-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "Final #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107722,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T16:59:52-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "R16 #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107723,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T17:02:30-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "R16 #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107724,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 4,
+            "matchnum": 2,
+            "scheduled": null,
+            "started": "2025-02-15T17:15:51-05:00",
+            "field": "Field 2",
+            "scored": false,
+            "name": "R16 #4-2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107725,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 6,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T17:04:52-05:00",
+            "field": "Field 3",
+            "scored": false,
+            "name": "R16 #6-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 52305,
+                                "name": "9776A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        },
+        {
+            "id": 105107726,
+            "event": {
+                "id": 56156,
+                "name": "2025 Syracuse High V5RC: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6156"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 8,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-15T17:09:40-05:00",
+            "field": "Field 1",
+            "scored": false,
+            "name": "R16 #8-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 5,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 105694,
+                                "name": "9776D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 141962,
+                                "name": "9776G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-15T18:19:38-05:00"
+        }
+    ]
+}

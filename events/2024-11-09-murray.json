@@ -1,0 +1,4505 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https:\/\/www.robotevents.com\/api\/v2\/events\/57934\/divisions\/1\/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https:\/\/www.robotevents.com\/api\/v2\/events\/57934\/divisions\/1\/matches?page=1",
+        "next_page_url": null,
+        "path": "https:\/\/www.robotevents.com\/api\/v2\/events\/57934\/divisions\/1\/matches",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 66,
+        "total": 66
+    },
+    "data": [
+        {
+            "id": 88509756,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": "2024-11-09T11:30:00-05:00",
+            "started": "2024-11-09T15:03:01-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 179329,
+                                "name": "185C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509757,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2024-11-09T11:34:00-05:00",
+            "started": "2024-11-09T15:03:25-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150937,
+                                "name": "4691T",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 156739,
+                                "name": "32321A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171033,
+                                "name": "2054C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509758,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2024-11-09T11:38:00-05:00",
+            "started": "2024-11-09T11:43:46-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509759,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2024-11-09T11:42:00-05:00",
+            "started": "2024-11-09T11:48:00-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 166883,
+                                "name": "30134B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 76135,
+                                "name": "4691E",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509760,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2024-11-09T11:46:00-05:00",
+            "started": "2024-11-09T11:50:25-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179326,
+                                "name": "185Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509761,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 6,
+            "scheduled": "2024-11-09T11:50:00-05:00",
+            "started": "2024-11-09T11:54:30-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #6",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157510,
+                                "name": "30134A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509762,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 7,
+            "scheduled": "2024-11-09T11:54:00-05:00",
+            "started": "2024-11-09T11:58:37-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #7",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 139503,
+                                "name": "4691R",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509763,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2024-11-09T11:58:00-05:00",
+            "started": "2024-11-09T12:01:42-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 179326,
+                                "name": "185Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176188,
+                                "name": "30134C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509764,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2024-11-09T12:02:00-05:00",
+            "started": "2024-11-09T12:05:31-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 156739,
+                                "name": "32321A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509765,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2024-11-09T12:06:00-05:00",
+            "started": "2024-11-09T12:08:31-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 139503,
+                                "name": "4691R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509766,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 11,
+            "scheduled": "2024-11-09T12:10:00-05:00",
+            "started": "2024-11-09T12:11:40-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #11",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171033,
+                                "name": "2054C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 179329,
+                                "name": "185C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509767,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2024-11-09T12:14:00-05:00",
+            "started": "2024-11-09T12:16:15-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 76135,
+                                "name": "4691E",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 55,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509768,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 13,
+            "scheduled": "2024-11-09T12:18:00-05:00",
+            "started": "2024-11-09T12:19:17-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #13",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 157510,
+                                "name": "30134A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509769,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 14,
+            "scheduled": "2024-11-09T12:22:00-05:00",
+            "started": "2024-11-09T12:21:53-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #14",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176188,
+                                "name": "30134C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 166883,
+                                "name": "30134B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509770,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 15,
+            "scheduled": "2024-11-09T12:26:00-05:00",
+            "started": "2024-11-09T12:25:34-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #15",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 150937,
+                                "name": "4691T",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509771,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": "2024-11-09T12:30:00-05:00",
+            "started": "2024-11-09T12:28:26-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76135,
+                                "name": "4691E",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509772,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 17,
+            "scheduled": "2024-11-09T12:34:00-05:00",
+            "started": "2024-11-09T12:34:58-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #17",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 179326,
+                                "name": "185Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509773,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 18,
+            "scheduled": "2024-11-09T12:38:00-05:00",
+            "started": "2024-11-09T12:35:20-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #18",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171033,
+                                "name": "2054C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509774,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 19,
+            "scheduled": "2024-11-09T12:42:00-05:00",
+            "started": "2024-11-09T12:38:24-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #19",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509775,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 20,
+            "scheduled": "2024-11-09T12:46:00-05:00",
+            "started": null,
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #20",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 156739,
+                                "name": "32321A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509776,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 21,
+            "scheduled": "2024-11-09T12:50:00-05:00",
+            "started": "2024-11-09T12:45:45-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #21",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157510,
+                                "name": "30134A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176188,
+                                "name": "30134C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509777,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 22,
+            "scheduled": "2024-11-09T12:54:00-05:00",
+            "started": "2024-11-09T12:48:43-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #22",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 166883,
+                                "name": "30134B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 139503,
+                                "name": "4691R",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509778,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2024-11-09T12:58:00-05:00",
+            "started": "2024-11-09T12:51:31-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150937,
+                                "name": "4691T",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 179329,
+                                "name": "185C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509779,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 24,
+            "scheduled": "2024-11-09T13:02:00-05:00",
+            "started": "2024-11-09T12:55:36-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #24",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171033,
+                                "name": "2054C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 157510,
+                                "name": "30134A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509780,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 25,
+            "scheduled": "2024-11-09T13:06:00-05:00",
+            "started": "2024-11-09T12:58:42-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #25",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176188,
+                                "name": "30134C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 156739,
+                                "name": "32321A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 76135,
+                                "name": "4691E",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509781,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2024-11-09T13:10:00-05:00",
+            "started": "2024-11-09T13:01:28-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 179326,
+                                "name": "185Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509782,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 27,
+            "scheduled": "2024-11-09T13:14:00-05:00",
+            "started": "2024-11-09T13:04:30-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #27",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 5,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 150937,
+                                "name": "4691T",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 166883,
+                                "name": "30134B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509783,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 28,
+            "scheduled": "2024-11-09T13:18:00-05:00",
+            "started": "2024-11-09T13:07:02-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #28",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 139503,
+                                "name": "4691R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179329,
+                                "name": "185C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509784,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 29,
+            "scheduled": "2024-11-09T13:22:00-05:00",
+            "started": "2024-11-09T13:10:10-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #29",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509785,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 30,
+            "scheduled": "2024-11-09T13:26:00-05:00",
+            "started": "2024-11-09T13:13:27-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #30",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509786,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 31,
+            "scheduled": "2024-11-09T13:30:00-05:00",
+            "started": "2024-11-09T13:16:47-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #31",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509787,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 32,
+            "scheduled": "2024-11-09T13:34:00-05:00",
+            "started": "2024-11-09T13:19:46-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #32",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176188,
+                                "name": "30134C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509788,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2024-11-09T13:38:00-05:00",
+            "started": "2024-11-09T13:22:46-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 157510,
+                                "name": "30134A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 166883,
+                                "name": "30134B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509789,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 34,
+            "scheduled": "2024-11-09T13:42:00-05:00",
+            "started": "2024-11-09T13:25:52-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #34",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171033,
+                                "name": "2054C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509790,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 35,
+            "scheduled": "2024-11-09T13:46:00-05:00",
+            "started": "2024-11-09T13:29:18-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #35",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150937,
+                                "name": "4691T",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509791,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 36,
+            "scheduled": "2024-11-09T13:50:00-05:00",
+            "started": "2024-11-09T13:31:58-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #36",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 50,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 139503,
+                                "name": "4691R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 76135,
+                                "name": "4691E",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509792,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 37,
+            "scheduled": "2024-11-09T13:54:00-05:00",
+            "started": "2024-11-09T13:35:12-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #37",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179329,
+                                "name": "185C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509793,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 38,
+            "scheduled": "2024-11-09T13:58:00-05:00",
+            "started": "2024-11-09T13:37:53-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #38",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 179326,
+                                "name": "185Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509794,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 39,
+            "scheduled": "2024-11-09T15:00:00-05:00",
+            "started": "2024-11-09T13:40:37-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #39",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 156739,
+                                "name": "32321A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509795,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 40,
+            "scheduled": "2024-11-09T15:04:00-05:00",
+            "started": "2024-11-09T13:43:18-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #40",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76135,
+                                "name": "4691E",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 179329,
+                                "name": "185C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157510,
+                                "name": "30134A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509796,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 41,
+            "scheduled": "2024-11-09T15:08:00-05:00",
+            "started": "2024-11-09T13:45:51-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #41",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509797,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 42,
+            "scheduled": "2024-11-09T15:12:00-05:00",
+            "started": "2024-11-09T13:49:50-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #42",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171033,
+                                "name": "2054C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509798,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 43,
+            "scheduled": "2024-11-09T15:16:00-05:00",
+            "started": "2024-11-09T15:05:07-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #43",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 156739,
+                                "name": "32321A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 166883,
+                                "name": "30134B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509799,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 44,
+            "scheduled": "2024-11-09T15:20:00-05:00",
+            "started": "2024-11-09T15:08:15-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #44",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509800,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 45,
+            "scheduled": "2024-11-09T15:24:00-05:00",
+            "started": "2024-11-09T15:11:31-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #45",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150937,
+                                "name": "4691T",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 139503,
+                                "name": "4691R",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509801,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 46,
+            "scheduled": "2024-11-09T15:28:00-05:00",
+            "started": "2024-11-09T15:14:22-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #46",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 1,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176188,
+                                "name": "30134C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509802,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 47,
+            "scheduled": "2024-11-09T15:32:00-05:00",
+            "started": "2024-11-09T15:17:07-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #47",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 156739,
+                                "name": "32321A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 179326,
+                                "name": "185Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509803,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 48,
+            "scheduled": "2024-11-09T15:36:00-05:00",
+            "started": "2024-11-09T15:19:48-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #48",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509804,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 49,
+            "scheduled": "2024-11-09T15:40:00-05:00",
+            "started": "2024-11-09T15:23:15-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #49",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509805,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 50,
+            "scheduled": "2024-11-09T15:44:00-05:00",
+            "started": "2024-11-09T15:27:41-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #50",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179329,
+                                "name": "185C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176188,
+                                "name": "30134C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509806,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 51,
+            "scheduled": "2024-11-09T15:48:00-05:00",
+            "started": "2024-11-09T15:30:58-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #51",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 166883,
+                                "name": "30134B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171033,
+                                "name": "2054C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509807,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 52,
+            "scheduled": "2024-11-09T15:52:00-05:00",
+            "started": "2024-11-09T15:34:10-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #52",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179326,
+                                "name": "185Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 150937,
+                                "name": "4691T",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157510,
+                                "name": "30134A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509808,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 53,
+            "scheduled": "2024-11-09T15:56:00-05:00",
+            "started": "2024-11-09T15:37:36-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #53",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509809,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 54,
+            "scheduled": "2024-11-09T16:00:00-05:00",
+            "started": "2024-11-09T15:40:22-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "Qualifier #54",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 76135,
+                                "name": "4691E",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509810,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 55,
+            "scheduled": "2024-11-09T16:04:00-05:00",
+            "started": "2024-11-09T15:43:53-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Qualifier #55",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 139503,
+                                "name": "4691R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509815,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-11-09T16:31:00-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171033,
+                                "name": "2054C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509816,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-11-09T16:34:35-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "QF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509817,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 3,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-11-09T16:38:45-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "QF #3-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 51,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509818,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-11-09T16:41:22-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509819,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-11-09T16:44:37-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171033,
+                                "name": "2054C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509820,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 4,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-11-09T16:48:55-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "SF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 42355,
+                                "name": "2323X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509821,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-11-09T17:01:14-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "Final #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509811,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-11-09T16:18:31-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "R16 #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 139503,
+                                "name": "4691R",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509812,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-11-09T16:21:57-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "R16 #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509813,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 6,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-11-09T16:24:50-05:00",
+            "field": "Sword",
+            "scored": false,
+            "name": "R16 #6-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157510,
+                                "name": "30134A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 166883,
+                                "name": "30134B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        },
+        {
+            "id": 88509814,
+            "event": {
+                "id": 57934,
+                "name": "Iron Spartan 2024: VEX V5 Robotics Competition, Blended HS\/MS,  No Judging",
+                "code": "RE-V5RC-24-7934"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 8,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-11-09T16:27:17-05:00",
+            "field": "Shield",
+            "scored": false,
+            "name": "R16 #8-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-11-09T17:14:13-05:00"
+        }
+    ]
+}

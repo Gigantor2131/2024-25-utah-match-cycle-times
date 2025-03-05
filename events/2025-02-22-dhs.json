@@ -1,0 +1,5593 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https:\/\/www.robotevents.com\/api\/v2\/events\/56998\/divisions\/1\/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https:\/\/www.robotevents.com\/api\/v2\/events\/56998\/divisions\/1\/matches?page=1",
+        "next_page_url": null,
+        "path": "https:\/\/www.robotevents.com\/api\/v2\/events\/56998\/divisions\/1\/matches",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 82,
+        "total": 82
+    },
+    "data": [
+        {
+            "id": 106974013,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": "2025-02-22T11:30:00-05:00",
+            "started": "2025-02-22T11:28:42-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974014,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2025-02-22T11:33:30-05:00",
+            "started": "2025-02-22T11:33:25-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974015,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2025-02-22T11:37:00-05:00",
+            "started": "2025-02-22T11:36:08-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 105694,
+                                "name": "9776D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974016,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2025-02-22T11:40:30-05:00",
+            "started": "2025-02-22T11:50:24-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 58193,
+                                "name": "8385A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 97901,
+                                "name": "8385C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974017,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2025-02-22T11:44:00-05:00",
+            "started": "2025-02-22T11:41:02-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 48,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 5,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147887,
+                                "name": "80804B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 177029,
+                                "name": "55117A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974018,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 6,
+            "scheduled": "2025-02-22T11:47:30-05:00",
+            "started": "2025-02-22T11:43:54-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #6",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175311,
+                                "name": "8385M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176188,
+                                "name": "30134C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974019,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 7,
+            "scheduled": "2025-02-22T11:51:00-05:00",
+            "started": "2025-02-22T11:58:59-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #7",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 137098,
+                                "name": "80804A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157510,
+                                "name": "30134A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974020,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2025-02-22T11:54:30-05:00",
+            "started": "2025-02-22T11:53:00-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 166883,
+                                "name": "30134B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 58194,
+                                "name": "8385B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974021,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2025-02-22T11:58:00-05:00",
+            "started": "2025-02-22T12:01:35-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176421,
+                                "name": "55117Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974022,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2025-02-22T12:01:30-05:00",
+            "started": "2025-02-22T12:04:41-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974023,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 11,
+            "scheduled": "2025-02-22T12:05:00-05:00",
+            "started": "2025-02-22T12:07:06-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #11",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174487,
+                                "name": "45538B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974024,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2025-02-22T12:08:30-05:00",
+            "started": "2025-02-22T12:09:32-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176188,
+                                "name": "30134C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974025,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 13,
+            "scheduled": "2025-02-22T12:12:00-05:00",
+            "started": "2025-02-22T12:11:57-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #13",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 97901,
+                                "name": "8385C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974026,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 14,
+            "scheduled": "2025-02-22T12:15:30-05:00",
+            "started": "2025-02-22T12:14:21-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #14",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177029,
+                                "name": "55117A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175311,
+                                "name": "8385M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974027,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 15,
+            "scheduled": "2025-02-22T12:19:00-05:00",
+            "started": "2025-02-22T12:19:01-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #15",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 166883,
+                                "name": "30134B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 58193,
+                                "name": "8385A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974028,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": "2025-02-22T12:22:30-05:00",
+            "started": "2025-02-22T12:21:27-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974029,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 17,
+            "scheduled": "2025-02-22T12:26:00-05:00",
+            "started": "2025-02-22T12:24:13-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #17",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176421,
+                                "name": "55117Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974030,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 18,
+            "scheduled": "2025-02-22T12:29:30-05:00",
+            "started": "2025-02-22T12:27:05-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #18",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974031,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 19,
+            "scheduled": "2025-02-22T12:33:00-05:00",
+            "started": "2025-02-22T12:29:33-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #19",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 58194,
+                                "name": "8385B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974032,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 20,
+            "scheduled": "2025-02-22T12:36:30-05:00",
+            "started": "2025-02-22T12:32:52-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #20",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974033,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 21,
+            "scheduled": "2025-02-22T12:40:00-05:00",
+            "started": "2025-02-22T12:35:48-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #21",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 2,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 137098,
+                                "name": "80804A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 105694,
+                                "name": "9776D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 56,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974034,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 22,
+            "scheduled": "2025-02-22T12:43:30-05:00",
+            "started": "2025-02-22T12:38:17-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #22",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157510,
+                                "name": "30134A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 147887,
+                                "name": "80804B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174487,
+                                "name": "45538B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974035,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2025-02-22T12:47:00-05:00",
+            "started": "2025-02-22T12:42:26-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974036,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 24,
+            "scheduled": "2025-02-22T12:50:30-05:00",
+            "started": "2025-02-22T12:45:08-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #24",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 97901,
+                                "name": "8385C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974037,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 25,
+            "scheduled": "2025-02-22T12:54:00-05:00",
+            "started": "2025-02-22T12:47:36-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #25",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 58193,
+                                "name": "8385A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176421,
+                                "name": "55117Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 177029,
+                                "name": "55117A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974038,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2025-02-22T12:57:30-05:00",
+            "started": "2025-02-22T12:50:03-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176188,
+                                "name": "30134C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 105694,
+                                "name": "9776D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974039,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 27,
+            "scheduled": "2025-02-22T13:01:00-05:00",
+            "started": "2025-02-22T12:59:01-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #27",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174487,
+                                "name": "45538B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 49,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974040,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 28,
+            "scheduled": "2025-02-22T13:04:30-05:00",
+            "started": "2025-02-22T13:01:28-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #28",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974041,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 29,
+            "scheduled": "2025-02-22T13:08:00-05:00",
+            "started": "2025-02-22T13:04:11-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #29",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 166883,
+                                "name": "30134B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 137098,
+                                "name": "80804A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974042,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 30,
+            "scheduled": "2025-02-22T13:11:30-05:00",
+            "started": "2025-02-22T13:07:07-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #30",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 175311,
+                                "name": "8385M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974043,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 31,
+            "scheduled": "2025-02-22T13:15:00-05:00",
+            "started": "2025-02-22T13:09:43-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #31",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 58194,
+                                "name": "8385B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974044,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 32,
+            "scheduled": "2025-02-22T13:18:30-05:00",
+            "started": "2025-02-22T13:12:20-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #32",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 157510,
+                                "name": "30134A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974045,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2025-02-22T13:22:00-05:00",
+            "started": "2025-02-22T13:14:46-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147887,
+                                "name": "80804B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974046,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 34,
+            "scheduled": "2025-02-22T13:25:30-05:00",
+            "started": "2025-02-22T13:17:25-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #34",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 137098,
+                                "name": "80804A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176421,
+                                "name": "55117Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974047,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 35,
+            "scheduled": "2025-02-22T13:29:00-05:00",
+            "started": "2025-02-22T13:20:29-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #35",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176188,
+                                "name": "30134C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974048,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 36,
+            "scheduled": "2025-02-22T13:32:30-05:00",
+            "started": "2025-02-22T13:22:57-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #36",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174487,
+                                "name": "45538B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 175311,
+                                "name": "8385M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974049,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 37,
+            "scheduled": "2025-02-22T13:36:00-05:00",
+            "started": "2025-02-22T13:25:29-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #37",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 97901,
+                                "name": "8385C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 166883,
+                                "name": "30134B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974050,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 38,
+            "scheduled": "2025-02-22T13:39:30-05:00",
+            "started": "2025-02-22T13:28:12-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #38",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 105694,
+                                "name": "9776D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974051,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 39,
+            "scheduled": "2025-02-22T13:43:00-05:00",
+            "started": "2025-02-22T13:30:42-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #39",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974052,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 40,
+            "scheduled": "2025-02-22T13:46:30-05:00",
+            "started": "2025-02-22T13:37:58-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #40",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 58193,
+                                "name": "8385A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 147887,
+                                "name": "80804B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974053,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 41,
+            "scheduled": "2025-02-22T13:50:00-05:00",
+            "started": "2025-02-22T13:40:28-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #41",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974054,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 42,
+            "scheduled": "2025-02-22T13:53:30-05:00",
+            "started": "2025-02-22T13:42:54-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #42",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157510,
+                                "name": "30134A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974055,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 43,
+            "scheduled": "2025-02-22T13:57:00-05:00",
+            "started": "2025-02-22T13:45:31-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #43",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974056,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 44,
+            "scheduled": "2025-02-22T15:00:00-05:00",
+            "started": "2025-02-22T13:48:11-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #44",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 177029,
+                                "name": "55117A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 58194,
+                                "name": "8385B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974057,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 45,
+            "scheduled": "2025-02-22T15:03:30-05:00",
+            "started": "2025-02-22T13:50:38-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #45",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 166883,
+                                "name": "30134B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176421,
+                                "name": "55117Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974058,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 46,
+            "scheduled": "2025-02-22T15:07:00-05:00",
+            "started": "2025-02-22T13:53:41-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #46",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175311,
+                                "name": "8385M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974059,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 47,
+            "scheduled": "2025-02-22T15:10:30-05:00",
+            "started": "2025-02-22T13:56:06-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #47",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 58193,
+                                "name": "8385A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974060,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 48,
+            "scheduled": "2025-02-22T15:14:00-05:00",
+            "started": "2025-02-22T13:58:32-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #48",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974061,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 49,
+            "scheduled": "2025-02-22T15:17:30-05:00",
+            "started": "2025-02-22T15:04:12-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #49",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 105694,
+                                "name": "9776D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177029,
+                                "name": "55117A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974062,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 50,
+            "scheduled": "2025-02-22T15:21:00-05:00",
+            "started": "2025-02-22T15:08:27-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #50",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 157510,
+                                "name": "30134A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974063,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 51,
+            "scheduled": "2025-02-22T15:24:30-05:00",
+            "started": "2025-02-22T15:10:59-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #51",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 137098,
+                                "name": "80804A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 50,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974064,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 52,
+            "scheduled": "2025-02-22T15:28:00-05:00",
+            "started": "2025-02-22T15:13:27-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #52",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974065,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 53,
+            "scheduled": "2025-02-22T15:31:30-05:00",
+            "started": "2025-02-22T15:16:02-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #53",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174487,
+                                "name": "45538B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974066,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 54,
+            "scheduled": "2025-02-22T15:35:00-05:00",
+            "started": "2025-02-22T15:18:48-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #54",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 5,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 97901,
+                                "name": "8385C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176188,
+                                "name": "30134C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974067,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 55,
+            "scheduled": "2025-02-22T15:38:30-05:00",
+            "started": "2025-02-22T15:21:32-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #55",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 58194,
+                                "name": "8385B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 147887,
+                                "name": "80804B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974068,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 56,
+            "scheduled": "2025-02-22T15:42:00-05:00",
+            "started": "2025-02-22T15:24:01-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #56",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177029,
+                                "name": "55117A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 157510,
+                                "name": "30134A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974069,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 57,
+            "scheduled": "2025-02-22T15:45:30-05:00",
+            "started": "2025-02-22T15:26:36-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #57",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175311,
+                                "name": "8385M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974070,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 58,
+            "scheduled": "2025-02-22T15:49:00-05:00",
+            "started": "2025-02-22T15:29:05-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #58",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 166883,
+                                "name": "30134B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974071,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 59,
+            "scheduled": "2025-02-22T15:52:30-05:00",
+            "started": "2025-02-22T15:31:44-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #59",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176421,
+                                "name": "55117Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 105694,
+                                "name": "9776D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974072,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 60,
+            "scheduled": "2025-02-22T15:56:00-05:00",
+            "started": "2025-02-22T15:34:28-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #60",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176188,
+                                "name": "30134C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974073,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 61,
+            "scheduled": "2025-02-22T15:59:30-05:00",
+            "started": "2025-02-22T15:37:07-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #61",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974074,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 62,
+            "scheduled": "2025-02-22T16:03:00-05:00",
+            "started": "2025-02-22T15:39:38-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #62",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 147887,
+                                "name": "80804B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 97901,
+                                "name": "8385C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974075,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 63,
+            "scheduled": "2025-02-22T16:06:30-05:00",
+            "started": "2025-02-22T15:42:18-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #63",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974076,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 64,
+            "scheduled": "2025-02-22T16:10:00-05:00",
+            "started": "2025-02-22T15:45:45-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "Qualifier #64",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 58193,
+                                "name": "8385A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174246,
+                                "name": "98548P",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974077,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 65,
+            "scheduled": "2025-02-22T16:13:30-05:00",
+            "started": "2025-02-22T15:48:29-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Qualifier #65",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 58194,
+                                "name": "8385B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974078,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 66,
+            "scheduled": "2025-02-22T16:17:00-05:00",
+            "started": "2025-02-22T15:51:40-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "Qualifier #66",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174487,
+                                "name": "45538B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 137098,
+                                "name": "80804A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974088,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T17:15:18-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 47,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974089,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T17:17:53-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "QF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 58193,
+                                "name": "8385A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974090,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 3,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T17:20:44-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "QF #3-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974091,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T17:23:13-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974092,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T17:37:01-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 50,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974093,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 4,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T17:39:40-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "SF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974094,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T17:52:27-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "Final #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974079,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T16:47:01-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "R16 #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 166883,
+                                "name": "30134B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 55,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974080,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T16:49:33-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "R16 #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 130609,
+                                "name": "98548G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974081,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 3,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T16:52:08-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "R16 #3-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 58193,
+                                "name": "8385A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974082,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 3,
+            "matchnum": 2,
+            "scheduled": null,
+            "started": "2025-02-22T17:01:37-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "R16 #3-2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 153418,
+                                "name": "1154A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 169741,
+                                "name": "1154D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 58193,
+                                "name": "8385A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974083,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T16:54:49-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "R16 #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 107414,
+                                "name": "98548D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974084,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 5,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T16:59:07-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "R16 #5-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 165381,
+                                "name": "55117K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974085,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 6,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T17:12:50-05:00",
+            "field": "Jett",
+            "scored": false,
+            "name": "R16 #6-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178043,
+                                "name": "2323V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 117653,
+                                "name": "2323R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974086,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 7,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T17:05:06-05:00",
+            "field": "Jayce",
+            "scored": false,
+            "name": "R16 #7-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 177029,
+                                "name": "55117A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 105694,
+                                "name": "9776D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 52,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        },
+        {
+            "id": 106974087,
+            "event": {
+                "id": 56998,
+                "name": "2025 Davis DUEL: V5RC, Blended HS\/MS, Remote Notebooks",
+                "code": "RE-V5RC-24-6998"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 8,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2025-02-22T17:10:03-05:00",
+            "field": "Crew",
+            "scored": false,
+            "name": "R16 #8-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 162868,
+                                "name": "55117J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 159871,
+                                "name": "2323H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 163968,
+                                "name": "98548N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2025-02-22T18:09:42-05:00"
+        }
+    ]
+}

@@ -1,0 +1,5049 @@
+{
+    "meta": {
+        "current_page": 1,
+        "first_page_url": "https:\/\/www.robotevents.com\/api\/v2\/events\/56906\/divisions\/1\/matches?page=1",
+        "from": 1,
+        "last_page": 1,
+        "last_page_url": "https:\/\/www.robotevents.com\/api\/v2\/events\/56906\/divisions\/1\/matches?page=1",
+        "next_page_url": null,
+        "path": "https:\/\/www.robotevents.com\/api\/v2\/events\/56906\/divisions\/1\/matches",
+        "per_page": 250,
+        "prev_page_url": null,
+        "to": 74,
+        "total": 74
+    },
+    "data": [
+        {
+            "id": 92095653,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": "2024-12-07T11:30:00-05:00",
+            "started": "2024-12-07T16:11:30-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 179329,
+                                "name": "185C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 45577,
+                                "name": "4691A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171033,
+                                "name": "2054C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095654,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 2,
+            "scheduled": "2024-12-07T11:33:30-05:00",
+            "started": "2024-12-07T11:34:13-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #2",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 179326,
+                                "name": "185Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095655,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 3,
+            "scheduled": "2024-12-07T11:37:00-05:00",
+            "started": "2024-12-07T11:36:42-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #3",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095656,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 4,
+            "scheduled": "2024-12-07T11:40:30-05:00",
+            "started": "2024-12-07T11:39:18-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #4",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76135,
+                                "name": "4691E",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150937,
+                                "name": "4691T",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095657,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 5,
+            "scheduled": "2024-12-07T11:44:00-05:00",
+            "started": "2024-12-07T11:41:59-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #5",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 58194,
+                                "name": "8385B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 58193,
+                                "name": "8385A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095658,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 6,
+            "scheduled": "2024-12-07T11:47:30-05:00",
+            "started": "2024-12-07T11:48:09-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #6",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 97901,
+                                "name": "8385C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095659,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 7,
+            "scheduled": "2024-12-07T11:51:00-05:00",
+            "started": "2024-12-07T11:52:11-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #7",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 133498,
+                                "name": "26840A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 175311,
+                                "name": "8385M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095660,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 8,
+            "scheduled": "2024-12-07T11:54:30-05:00",
+            "started": "2024-12-07T11:57:39-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #8",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 133499,
+                                "name": "36574A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 152035,
+                                "name": "4691N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 148416,
+                                "name": "4691S",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095661,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 9,
+            "scheduled": "2024-12-07T11:58:00-05:00",
+            "started": "2024-12-07T12:00:40-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #9",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 139503,
+                                "name": "4691R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095662,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 10,
+            "scheduled": "2024-12-07T12:01:30-05:00",
+            "started": "2024-12-07T12:04:16-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #10",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095663,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 11,
+            "scheduled": "2024-12-07T12:05:00-05:00",
+            "started": "2024-12-07T12:11:47-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #11",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 29,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171033,
+                                "name": "2054C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 5,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 97901,
+                                "name": "8385C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095664,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 12,
+            "scheduled": "2024-12-07T12:08:30-05:00",
+            "started": "2024-12-07T12:14:33-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #12",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 179329,
+                                "name": "185C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095665,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 13,
+            "scheduled": "2024-12-07T12:12:00-05:00",
+            "started": "2024-12-07T12:17:26-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #13",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095666,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 14,
+            "scheduled": "2024-12-07T12:15:30-05:00",
+            "started": "2024-12-07T12:19:52-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #14",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 133498,
+                                "name": "26840A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 45577,
+                                "name": "4691A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095667,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 15,
+            "scheduled": "2024-12-07T12:19:00-05:00",
+            "started": "2024-12-07T12:23:39-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #15",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 58193,
+                                "name": "8385A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 133499,
+                                "name": "36574A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 40,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 179326,
+                                "name": "185Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095668,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 16,
+            "scheduled": "2024-12-07T12:22:30-05:00",
+            "started": "2024-12-07T12:27:35-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #16",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 152035,
+                                "name": "4691N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 12,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 76135,
+                                "name": "4691E",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095669,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 17,
+            "scheduled": "2024-12-07T12:26:00-05:00",
+            "started": "2024-12-07T12:30:06-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #17",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 148416,
+                                "name": "4691S",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 58194,
+                                "name": "8385B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095670,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 18,
+            "scheduled": "2024-12-07T12:29:30-05:00",
+            "started": "2024-12-07T12:32:58-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #18",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175311,
+                                "name": "8385M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 139503,
+                                "name": "4691R",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 150937,
+                                "name": "4691T",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095671,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 19,
+            "scheduled": "2024-12-07T12:33:00-05:00",
+            "started": "2024-12-07T12:35:50-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #19",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171033,
+                                "name": "2054C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095672,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 20,
+            "scheduled": "2024-12-07T12:36:30-05:00",
+            "started": "2024-12-07T12:38:41-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #20",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095673,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 21,
+            "scheduled": "2024-12-07T12:40:00-05:00",
+            "started": "2024-12-07T12:42:07-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #21",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 148416,
+                                "name": "4691S",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 133498,
+                                "name": "26840A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095674,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 22,
+            "scheduled": "2024-12-07T12:43:30-05:00",
+            "started": "2024-12-07T12:44:41-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #22",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150937,
+                                "name": "4691T",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 58193,
+                                "name": "8385A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 18,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095675,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 23,
+            "scheduled": "2024-12-07T12:47:00-05:00",
+            "started": "2024-12-07T12:49:41-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #23",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 139503,
+                                "name": "4691R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 97901,
+                                "name": "8385C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 51,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095676,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 24,
+            "scheduled": "2024-12-07T12:50:30-05:00",
+            "started": "2024-12-07T12:52:08-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #24",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 45577,
+                                "name": "4691A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 175311,
+                                "name": "8385M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76135,
+                                "name": "4691E",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 133499,
+                                "name": "36574A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095677,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 25,
+            "scheduled": "2024-12-07T12:54:00-05:00",
+            "started": "2024-12-07T12:54:47-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #25",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 58194,
+                                "name": "8385B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 152035,
+                                "name": "4691N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 179326,
+                                "name": "185Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095678,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 26,
+            "scheduled": "2024-12-07T12:57:30-05:00",
+            "started": "2024-12-07T12:57:46-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #26",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095679,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 27,
+            "scheduled": "2024-12-07T13:01:00-05:00",
+            "started": "2024-12-07T13:00:40-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #27",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 5,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 179329,
+                                "name": "185C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095680,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 28,
+            "scheduled": "2024-12-07T13:04:30-05:00",
+            "started": "2024-12-07T13:03:32-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #28",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171033,
+                                "name": "2054C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095681,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 29,
+            "scheduled": "2024-12-07T13:08:00-05:00",
+            "started": "2024-12-07T13:06:27-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #29",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 133499,
+                                "name": "36574A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 58194,
+                                "name": "8385B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095682,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 30,
+            "scheduled": "2024-12-07T13:11:30-05:00",
+            "started": "2024-12-07T13:08:56-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #30",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 76135,
+                                "name": "4691E",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 139503,
+                                "name": "4691R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 148416,
+                                "name": "4691S",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095683,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 31,
+            "scheduled": "2024-12-07T13:15:00-05:00",
+            "started": "2024-12-07T13:11:33-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #31",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 175311,
+                                "name": "8385M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095684,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 32,
+            "scheduled": "2024-12-07T13:18:30-05:00",
+            "started": "2024-12-07T13:16:15-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #32",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 133498,
+                                "name": "26840A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095685,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 33,
+            "scheduled": "2024-12-07T13:22:00-05:00",
+            "started": "2024-12-07T13:19:28-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #33",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 97901,
+                                "name": "8385C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 58193,
+                                "name": "8385A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095686,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 34,
+            "scheduled": "2024-12-07T13:25:30-05:00",
+            "started": "2024-12-07T13:22:03-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #34",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 4,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 45577,
+                                "name": "4691A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095687,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 35,
+            "scheduled": "2024-12-07T13:29:00-05:00",
+            "started": "2024-12-07T13:24:31-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #35",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150937,
+                                "name": "4691T",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 179329,
+                                "name": "185C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179326,
+                                "name": "185Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095688,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 36,
+            "scheduled": "2024-12-07T13:32:30-05:00",
+            "started": "2024-12-07T13:28:48-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #36",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 152035,
+                                "name": "4691N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095689,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 37,
+            "scheduled": "2024-12-07T13:36:00-05:00",
+            "started": "2024-12-07T13:31:55-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #37",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 43,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 76135,
+                                "name": "4691E",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095690,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 38,
+            "scheduled": "2024-12-07T13:39:30-05:00",
+            "started": "2024-12-07T13:34:35-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #38",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 58193,
+                                "name": "8385A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095691,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 39,
+            "scheduled": "2024-12-07T13:43:00-05:00",
+            "started": "2024-12-07T13:38:16-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #39",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 39,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 5,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 175311,
+                                "name": "8385M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095692,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 40,
+            "scheduled": "2024-12-07T13:46:30-05:00",
+            "started": "2024-12-07T13:40:56-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #40",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 150937,
+                                "name": "4691T",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 45577,
+                                "name": "4691A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095693,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 41,
+            "scheduled": "2024-12-07T13:50:00-05:00",
+            "started": "2024-12-07T13:43:25-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #41",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179326,
+                                "name": "185Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 44,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095694,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 42,
+            "scheduled": "2024-12-07T13:53:30-05:00",
+            "started": "2024-12-07T13:45:59-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #42",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 27,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 133498,
+                                "name": "26840A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179329,
+                                "name": "185C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 133499,
+                                "name": "36574A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095695,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 43,
+            "scheduled": "2024-12-07T13:57:00-05:00",
+            "started": "2024-12-07T13:49:57-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #43",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 45,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171033,
+                                "name": "2054C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 139503,
+                                "name": "4691R",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 58194,
+                                "name": "8385B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095696,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 44,
+            "scheduled": "2024-12-07T15:00:00-05:00",
+            "started": "2024-12-07T13:52:27-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #44",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 148416,
+                                "name": "4691S",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095697,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 45,
+            "scheduled": "2024-12-07T15:03:30-05:00",
+            "started": "2024-12-07T13:55:27-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #45",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 23,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 152035,
+                                "name": "4691N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 97901,
+                                "name": "8385C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095698,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 46,
+            "scheduled": "2024-12-07T15:07:00-05:00",
+            "started": "2024-12-07T13:58:03-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #46",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 150937,
+                                "name": "4691T",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095699,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 47,
+            "scheduled": "2024-12-07T15:10:30-05:00",
+            "started": "2024-12-07T14:01:18-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #47",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 133499,
+                                "name": "36574A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095700,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 48,
+            "scheduled": "2024-12-07T15:14:00-05:00",
+            "started": "2024-12-07T15:04:49-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #48",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 175311,
+                                "name": "8385M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095701,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 49,
+            "scheduled": "2024-12-07T15:17:30-05:00",
+            "started": "2024-12-07T15:07:21-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #49",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 58193,
+                                "name": "8385A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 133498,
+                                "name": "26840A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171033,
+                                "name": "2054C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095702,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 50,
+            "scheduled": "2024-12-07T15:21:00-05:00",
+            "started": "2024-12-07T15:09:48-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #50",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 16,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 58194,
+                                "name": "8385B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 76135,
+                                "name": "4691E",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095703,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 51,
+            "scheduled": "2024-12-07T15:24:30-05:00",
+            "started": "2024-12-07T15:12:33-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #51",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 30,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095704,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 52,
+            "scheduled": "2024-12-07T15:28:00-05:00",
+            "started": "2024-12-07T15:15:15-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #52",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 7,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179326,
+                                "name": "185Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095705,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 53,
+            "scheduled": "2024-12-07T15:31:30-05:00",
+            "started": "2024-12-07T15:17:51-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #53",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 148416,
+                                "name": "4691S",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 179329,
+                                "name": "185C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 97901,
+                                "name": "8385C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095706,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 54,
+            "scheduled": "2024-12-07T15:35:00-05:00",
+            "started": "2024-12-07T15:20:25-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #54",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 45577,
+                                "name": "4691A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 139503,
+                                "name": "4691R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 152035,
+                                "name": "4691N",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095707,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 55,
+            "scheduled": "2024-12-07T15:38:30-05:00",
+            "started": "2024-12-07T15:23:20-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #55",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 38,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 42,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095708,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 56,
+            "scheduled": "2024-12-07T15:42:00-05:00",
+            "started": "2024-12-07T15:25:54-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #56",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 76135,
+                                "name": "4691E",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161010,
+                                "name": "1908X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179326,
+                                "name": "185Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095709,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 57,
+            "scheduled": "2024-12-07T15:45:30-05:00",
+            "started": "2024-12-07T15:29:12-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #57",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 179329,
+                                "name": "185C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 175311,
+                                "name": "8385M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 13,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 174235,
+                                "name": "84075Z",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 58194,
+                                "name": "8385B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095710,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 58,
+            "scheduled": "2024-12-07T15:49:00-05:00",
+            "started": "2024-12-07T15:31:41-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #58",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 10,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 139503,
+                                "name": "4691R",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 26,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 58193,
+                                "name": "8385A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095711,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 59,
+            "scheduled": "2024-12-07T15:52:30-05:00",
+            "started": "2024-12-07T15:34:20-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #59",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 3,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 150937,
+                                "name": "4691T",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 14,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 148416,
+                                "name": "4691S",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171033,
+                                "name": "2054C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095712,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 60,
+            "scheduled": "2024-12-07T15:56:00-05:00",
+            "started": "2024-12-07T15:36:57-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #60",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 59897,
+                                "name": "2131F",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 133498,
+                                "name": "26840A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 17,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 97901,
+                                "name": "8385C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095713,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 61,
+            "scheduled": "2024-12-07T15:59:30-05:00",
+            "started": "2024-12-07T15:39:28-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "Qualifier #61",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 33,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 45577,
+                                "name": "4691A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 50,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095714,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 62,
+            "scheduled": "2024-12-07T16:03:00-05:00",
+            "started": "2024-12-07T15:42:06-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Qualifier #62",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 133499,
+                                "name": "36574A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 21,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095715,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 2,
+            "instance": 1,
+            "matchnum": 63,
+            "scheduled": "2024-12-07T16:06:30-05:00",
+            "started": "2024-12-07T15:44:38-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "Qualifier #63",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 5,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 152035,
+                                "name": "4691N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 36,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095720,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-07T16:54:09-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "QF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 34,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095721,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-07T16:59:18-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "QF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 150937,
+                                "name": "4691T",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 25,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171033,
+                                "name": "2054C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095722,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 3,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-07T17:02:48-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "QF #3-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 20,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 50,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095723,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 3,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-07T17:06:34-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "QF #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 24,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 46,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095724,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 4,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-07T17:14:42-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "SF #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 0,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 171033,
+                                "name": "2054C",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 90363,
+                                "name": "2131V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 31,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095725,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 4,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-07T17:40:51-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "SF #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 35,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 136735,
+                                "name": "98548H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 145669,
+                                "name": "1908B",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 37,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095726,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 5,
+            "instance": 1,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-07T17:52:41-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "Final #1-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 11,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 84112,
+                                "name": "2131H",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 171032,
+                                "name": "2054V",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 32,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 64855,
+                                "name": "2131G",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 66000,
+                                "name": "98548C",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095716,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 2,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-07T16:41:33-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "R16 #2-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 22,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93662,
+                                "name": "2131N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 142581,
+                                "name": "98548K",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 19,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 161009,
+                                "name": "1908V",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 139503,
+                                "name": "4691R",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095717,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 4,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-07T16:44:01-05:00",
+            "field": "WHAT",
+            "scored": false,
+            "name": "R16 #4-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 9,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178103,
+                                "name": "1908K",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 150937,
+                                "name": "4691T",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 8,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 178102,
+                                "name": "1908D",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 172945,
+                                "name": "45538A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095718,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 6,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-07T16:46:30-05:00",
+            "field": "WHERE",
+            "scored": false,
+            "name": "R16 #6-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 15,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 58193,
+                                "name": "8385A",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 160102,
+                                "name": "98548M",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 41,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 93665,
+                                "name": "2131Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 174868,
+                                "name": "84075Y",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        },
+        {
+            "id": 92095719,
+            "event": {
+                "id": 56906,
+                "name": "Wobble at Wasatch 2024: V5RC, Blended HS\/MS, Digital Notebook Submission",
+                "code": "RE-V5RC-24-6906"
+            },
+            "division": {
+                "id": 1,
+                "name": "Default Division",
+                "code": null
+            },
+            "round": 6,
+            "instance": 8,
+            "matchnum": 1,
+            "scheduled": null,
+            "started": "2024-12-07T16:49:13-05:00",
+            "field": "WHO",
+            "scored": false,
+            "name": "R16 #8-1",
+            "alliances": [
+                {
+                    "color": "blue",
+                    "score": 6,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 152035,
+                                "name": "4691N",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 45577,
+                                "name": "4691A",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                },
+                {
+                    "color": "red",
+                    "score": 28,
+                    "teams": [
+                        {
+                            "team": {
+                                "id": 176439,
+                                "name": "84075X",
+                                "code": null
+                            },
+                            "sitting": false
+                        },
+                        {
+                            "team": {
+                                "id": 93661,
+                                "name": "2131J",
+                                "code": null
+                            },
+                            "sitting": false
+                        }
+                    ]
+                }
+            ],
+            "updated_at": "2024-12-07T18:16:46-05:00"
+        }
+    ]
+}
