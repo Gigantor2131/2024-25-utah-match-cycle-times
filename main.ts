@@ -55,42 +55,36 @@ async function calculateTimeDifference(filepath: string) {
     const matches: Match[] = JSON.parse(data).data
 
 
-    matches.sort((a, b) => new Date(a.started).valueOf() - new Date(b.started).valueOf())
+    matches.sort((a, b) => new Date(a.started).getTime() - new Date(b.started).getTime())
 
-    const timeDifferences: number[] = []
-    const timeOutliers: number[] = []
+    const matchCycleTimeSeconds: number[] = []
+    const matchCycleTimeSecondsOutliers: number[] = []
     let sum = 0
     for (let i = 1; i < matches.length; i++) {
         if (matches[i].round !== 2) continue; //only track qual matches aka round 2
 
         const previousMatchStartedTime = new Date(matches[i - 1].started).getTime()
         const currentMatchStartedTime = new Date(matches[i].started).getTime()
-        const timeDifference = (currentMatchStartedTime - previousMatchStartedTime) / 1000 // Time difference in seconds
-        if (timeDifference < 120) { timeOutliers.push(timeDifference) }
-        else if (timeDifference > 55 * 60) { timeOutliers.push(timeDifference) }
+        const matchCycleTime = (currentMatchStartedTime - previousMatchStartedTime) / 1000 // Time difference in seconds
+
+        if (matchCycleTime < 120) { matchCycleTimeSecondsOutliers.push(matchCycleTime) }
+        else if (matchCycleTime > 10 * 60) { matchCycleTimeSecondsOutliers.push(matchCycleTime) }
         else {
-            timeDifferences.push(timeDifference)
-            sum += timeDifference
+            matchCycleTimeSeconds.push(matchCycleTime)
+            sum += matchCycleTime
         }
     }
-    timeDifferences.sort((a, b) => a - b)
-    timeOutliers.sort((a, b) => a - b)
-    const AverageCycleTimeSec = sum / timeDifferences.length
+    matchCycleTimeSeconds.sort((a, b) => a - b)
+    const AverageCycleTimeSec = sum / matchCycleTimeSeconds.length
     const AverageCycleTime = secondsToMMSS(AverageCycleTimeSec)
-    // console.log({
-    //     EventCode: matches[0].event.code,
-    //     EventName: filepath.replace('./events/', '').replace('.json', ''),
-    //     AverageCycleTimeSec,
-    //     AverageCycleTime,
-    //     QualTimes: timeDifferences,
-    // })
+
     return {
         EventCode: matches[0].event.code,
         EventName: filepath.replace('./events/', '').replace('.json', ''),
         AverageCycleTimeSec,
         AverageCycleTime,
-        QualTimesSec: timeDifferences,
-        QualTimesSecOutliers: timeOutliers,
+        QualTimesSec: matchCycleTimeSeconds,
+        QualTimesSecOutliers: matchCycleTimeSecondsOutliers,
     }
 }
 const output: any = []
