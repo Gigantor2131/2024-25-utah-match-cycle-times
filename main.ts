@@ -58,18 +58,23 @@ async function calculateTimeDifference(filepath: string) {
     matches.sort((a, b) => new Date(a.started).valueOf() - new Date(b.started).valueOf())
 
     const timeDifferences: number[] = []
+    const timeOutliers: number[] = []
     let sum = 0
     for (let i = 1; i < matches.length; i++) {
+        if (matches[i].round !== 2) continue; //only track qual matches aka round 2
+
         const previousMatchStartedTime = new Date(matches[i - 1].started).getTime()
         const currentMatchStartedTime = new Date(matches[i].started).getTime()
         const timeDifference = (currentMatchStartedTime - previousMatchStartedTime) / 1000 // Time difference in seconds
-        if (timeDifference < 120) continue
-        if (timeDifference > 55 * 60) continue
-        if (matches[i].round === 2) {
+        if (timeDifference < 120) { timeOutliers.push(timeDifference) }
+        else if (timeDifference > 55 * 60) { timeOutliers.push(timeDifference) }
+        else {
             timeDifferences.push(timeDifference)
             sum += timeDifference
         }
     }
+    timeDifferences.sort((a, b) => a - b)
+    timeOutliers.sort((a, b) => a - b)
     const AverageCycleTimeSec = sum / timeDifferences.length
     const AverageCycleTime = secondsToMMSS(AverageCycleTimeSec)
     // console.log({
@@ -85,6 +90,7 @@ async function calculateTimeDifference(filepath: string) {
         AverageCycleTimeSec,
         AverageCycleTime,
         QualTimesSec: timeDifferences,
+        QualTimesSecOutliers: timeOutliers,
     }
 }
 const output: any = []
