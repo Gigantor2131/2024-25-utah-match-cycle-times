@@ -1,0 +1,6545 @@
+{
+  "meta": {
+    "current_page": 1,
+    "first_page_url": "https:\/\/www.robotevents.com\/api\/v2\/events\/60581\/divisions\/1\/matches?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "https:\/\/www.robotevents.com\/api\/v2\/events\/60581\/divisions\/1\/matches?page=1",
+    "next_page_url": null,
+    "path": "https:\/\/www.robotevents.com\/api\/v2\/events\/60581\/divisions\/1\/matches",
+    "per_page": 250,
+    "prev_page_url": null,
+    "to": 96,
+    "total": 96
+  },
+  "data": [
+    {
+      "id": 120372541,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 1,
+      "scheduled": "2025-11-08T11:00:00-05:00",
+      "started": "2025-11-08T11:22:01-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 11,
+          "teams": [
+            {
+              "team": {
+                "id": 117676,
+                "name": "2323D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 130284,
+                "name": "9776E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 55,
+          "teams": [
+            {
+              "team": {
+                "id": 184804,
+                "name": "283V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 74633,
+                "name": "2131T",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372542,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 2,
+      "scheduled": "2025-11-08T11:03:20-05:00",
+      "started": "2025-11-08T11:25:19-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #2",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 19,
+          "teams": [
+            {
+              "team": {
+                "id": 64853,
+                "name": "2131S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174487,
+                "name": "45538B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 28,
+          "teams": [
+            {
+              "team": {
+                "id": 58194,
+                "name": "8385B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93664,
+                "name": "2131U",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372543,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 3,
+      "scheduled": "2025-11-08T11:06:40-05:00",
+      "started": "2025-11-08T11:27:54-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #3",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 41,
+          "teams": [
+            {
+              "team": {
+                "id": 172945,
+                "name": "45538A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142581,
+                "name": "98548K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 90,
+          "teams": [
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 171032,
+                "name": "2054V",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372544,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 4,
+      "scheduled": "2025-11-08T11:10:00-05:00",
+      "started": "2025-11-08T11:30:31-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #4",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 64,
+          "teams": [
+            {
+              "team": {
+                "id": 176421,
+                "name": "55117Y",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 5,
+          "teams": [
+            {
+              "team": {
+                "id": 52305,
+                "name": "9776A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 141962,
+                "name": "9776G",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372545,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 5,
+      "scheduled": "2025-11-08T11:13:20-05:00",
+      "started": "2025-11-08T11:33:02-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #5",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 124,
+          "teams": [
+            {
+              "team": {
+                "id": 93662,
+                "name": "2131N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 177029,
+                "name": "55117A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 20,
+          "teams": [
+            {
+              "team": {
+                "id": 165381,
+                "name": "55117K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 153183,
+                "name": "283S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372546,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 6,
+      "scheduled": "2025-11-08T11:16:40-05:00",
+      "started": "2025-11-08T11:36:11-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #6",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 36,
+          "teams": [
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 160102,
+                "name": "98548M",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 29,
+          "teams": [
+            {
+              "team": {
+                "id": 176188,
+                "name": "30134C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188715,
+                "name": "98548S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372547,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 7,
+      "scheduled": "2025-11-08T11:20:00-05:00",
+      "started": "2025-11-08T11:38:55-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #7",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 75,
+          "teams": [
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 88793,
+                "name": "9776C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 28,
+          "teams": [
+            {
+              "team": {
+                "id": 174246,
+                "name": "98548P",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 117653,
+                "name": "2323R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372548,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 8,
+      "scheduled": "2025-11-08T11:23:20-05:00",
+      "started": "2025-11-08T11:41:57-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #8",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 34,
+          "teams": [
+            {
+              "team": {
+                "id": 186968,
+                "name": "11353E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 42355,
+                "name": "2323X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 23,
+          "teams": [
+            {
+              "team": {
+                "id": 176439,
+                "name": "84075X",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 139503,
+                "name": "4691R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372549,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 9,
+      "scheduled": "2025-11-08T11:26:40-05:00",
+      "started": "2025-11-08T11:45:29-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #9",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 33,
+          "teams": [
+            {
+              "team": {
+                "id": 59897,
+                "name": "2131F",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188713,
+                "name": "98548R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 59,
+          "teams": [
+            {
+              "team": {
+                "id": 184935,
+                "name": "283K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 159871,
+                "name": "2323H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372550,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 10,
+      "scheduled": "2025-11-08T11:30:00-05:00",
+      "started": "2025-11-08T11:48:02-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #10",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 21,
+          "teams": [
+            {
+              "team": {
+                "id": 97901,
+                "name": "8385C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 166883,
+                "name": "30134B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 116,
+          "teams": [
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372551,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 11,
+      "scheduled": "2025-11-08T11:33:20-05:00",
+      "started": "2025-11-08T11:51:22-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #11",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 63,
+          "teams": [
+            {
+              "team": {
+                "id": 190914,
+                "name": "2323J",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188300,
+                "name": "8385W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 72475,
+                "name": "9776B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190499,
+                "name": "98548T",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372552,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 12,
+      "scheduled": "2025-11-08T11:36:40-05:00",
+      "started": "2025-11-08T11:53:49-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #12",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 16,
+          "teams": [
+            {
+              "team": {
+                "id": 153183,
+                "name": "283S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 74633,
+                "name": "2131T",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 58,
+          "teams": [
+            {
+              "team": {
+                "id": 105694,
+                "name": "9776D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 178043,
+                "name": "2323V",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372553,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 13,
+      "scheduled": "2025-11-08T11:40:00-05:00",
+      "started": "2025-11-08T11:58:13-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #13",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 12,
+          "teams": [
+            {
+              "team": {
+                "id": 184804,
+                "name": "283V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188715,
+                "name": "98548S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 124,
+          "teams": [
+            {
+              "team": {
+                "id": 93662,
+                "name": "2131N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142581,
+                "name": "98548K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372554,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 14,
+      "scheduled": "2025-11-08T11:43:20-05:00",
+      "started": "2025-11-08T12:00:42-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #14",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 37,
+          "teams": [
+            {
+              "team": {
+                "id": 176188,
+                "name": "30134C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 186968,
+                "name": "11353E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 17,
+          "teams": [
+            {
+              "team": {
+                "id": 174487,
+                "name": "45538B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372555,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 15,
+      "scheduled": "2025-11-08T11:46:40-05:00",
+      "started": "2025-11-08T12:03:36-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #15",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 14,
+          "teams": [
+            {
+              "team": {
+                "id": 159871,
+                "name": "2323H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 117653,
+                "name": "2323R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 106,
+          "teams": [
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372556,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 16,
+      "scheduled": "2025-11-08T11:50:00-05:00",
+      "started": "2025-11-08T12:06:38-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #16",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 121,
+          "teams": [
+            {
+              "team": {
+                "id": 72475,
+                "name": "9776B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 171032,
+                "name": "2054V",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 23,
+          "teams": [
+            {
+              "team": {
+                "id": 64853,
+                "name": "2131S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 165381,
+                "name": "55117K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372557,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 17,
+      "scheduled": "2025-11-08T11:53:20-05:00",
+      "started": "2025-11-08T12:09:15-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #17",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 11,
+          "teams": [
+            {
+              "team": {
+                "id": 139503,
+                "name": "4691R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 141962,
+                "name": "9776G",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 88,
+          "teams": [
+            {
+              "team": {
+                "id": 160102,
+                "name": "98548M",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372558,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 18,
+      "scheduled": "2025-11-08T11:56:40-05:00",
+      "started": "2025-11-08T12:11:40-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #18",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 76,
+          "teams": [
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174246,
+                "name": "98548P",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 20,
+          "teams": [
+            {
+              "team": {
+                "id": 117676,
+                "name": "2323D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 177029,
+                "name": "55117A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372559,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 19,
+      "scheduled": "2025-11-08T12:00:00-05:00",
+      "started": "2025-11-08T12:14:19-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #19",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 82,
+          "teams": [
+            {
+              "team": {
+                "id": 178043,
+                "name": "2323V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190499,
+                "name": "98548T",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 8,
+          "teams": [
+            {
+              "team": {
+                "id": 172945,
+                "name": "45538A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 130284,
+                "name": "9776E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372560,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 20,
+      "scheduled": "2025-11-08T12:03:10-05:00",
+      "started": "2025-11-08T12:17:14-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #20",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 62,
+          "teams": [
+            {
+              "team": {
+                "id": 93664,
+                "name": "2131U",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 97901,
+                "name": "8385C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 14,
+          "teams": [
+            {
+              "team": {
+                "id": 88793,
+                "name": "9776C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188713,
+                "name": "98548R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372561,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 21,
+      "scheduled": "2025-11-08T12:06:20-05:00",
+      "started": "2025-11-08T12:19:42-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #21",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 79,
+          "teams": [
+            {
+              "team": {
+                "id": 184935,
+                "name": "283K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 17,
+          "teams": [
+            {
+              "team": {
+                "id": 176439,
+                "name": "84075X",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 176421,
+                "name": "55117Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372562,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 22,
+      "scheduled": "2025-11-08T12:09:30-05:00",
+      "started": "2025-11-08T12:28:07-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #22",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 29,
+          "teams": [
+            {
+              "team": {
+                "id": 52305,
+                "name": "9776A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 105694,
+                "name": "9776D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 62,
+          "teams": [
+            {
+              "team": {
+                "id": 42355,
+                "name": "2323X",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190914,
+                "name": "2323J",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372563,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 23,
+      "scheduled": "2025-11-08T12:12:40-05:00",
+      "started": "2025-11-08T12:30:58-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #23",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 43,
+          "teams": [
+            {
+              "team": {
+                "id": 58194,
+                "name": "8385B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188300,
+                "name": "8385W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 89,
+          "teams": [
+            {
+              "team": {
+                "id": 59897,
+                "name": "2131F",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 166883,
+                "name": "30134B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372564,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 24,
+      "scheduled": "2025-11-08T12:15:50-05:00",
+      "started": "2025-11-08T12:33:22-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #24",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 32,
+          "teams": [
+            {
+              "team": {
+                "id": 178043,
+                "name": "2323V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 141962,
+                "name": "9776G",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 104,
+          "teams": [
+            {
+              "team": {
+                "id": 93662,
+                "name": "2131N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174487,
+                "name": "45538B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372565,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 25,
+      "scheduled": "2025-11-08T12:19:00-05:00",
+      "started": "2025-11-08T12:36:03-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #25",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 43,
+          "teams": [
+            {
+              "team": {
+                "id": 64853,
+                "name": "2131S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 117653,
+                "name": "2323R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 29,
+          "teams": [
+            {
+              "team": {
+                "id": 160102,
+                "name": "98548M",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188713,
+                "name": "98548R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372566,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 26,
+      "scheduled": "2025-11-08T12:22:10-05:00",
+      "started": "2025-11-08T12:38:33-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #26",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 27,
+          "teams": [
+            {
+              "team": {
+                "id": 153183,
+                "name": "283S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 176439,
+                "name": "84075X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 98,
+          "teams": [
+            {
+              "team": {
+                "id": 97901,
+                "name": "8385C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372567,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 27,
+      "scheduled": "2025-11-08T12:25:20-05:00",
+      "started": "2025-11-08T12:41:04-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #27",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 58,
+          "teams": [
+            {
+              "team": {
+                "id": 174246,
+                "name": "98548P",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 165381,
+                "name": "55117K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 20,
+          "teams": [
+            {
+              "team": {
+                "id": 105694,
+                "name": "9776D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 130284,
+                "name": "9776E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372568,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 28,
+      "scheduled": "2025-11-08T12:28:30-05:00",
+      "started": "2025-11-08T12:44:07-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #28",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 113,
+          "teams": [
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142581,
+                "name": "98548K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 8,
+          "teams": [
+            {
+              "team": {
+                "id": 176421,
+                "name": "55117Y",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190914,
+                "name": "2323J",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372569,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 29,
+      "scheduled": "2025-11-08T12:31:40-05:00",
+      "started": "2025-11-08T12:46:40-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #29",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 25,
+          "teams": [
+            {
+              "team": {
+                "id": 93664,
+                "name": "2131U",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190499,
+                "name": "98548T",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 14,
+          "teams": [
+            {
+              "team": {
+                "id": 186968,
+                "name": "11353E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 184804,
+                "name": "283V",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372570,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 30,
+      "scheduled": "2025-11-08T12:34:50-05:00",
+      "started": "2025-11-08T12:49:14-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #30",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 32,
+          "teams": [
+            {
+              "team": {
+                "id": 72475,
+                "name": "9776B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 59897,
+                "name": "2131F",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 93,
+          "teams": [
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372571,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 31,
+      "scheduled": "2025-11-08T12:38:00-05:00",
+      "started": "2025-11-08T12:51:46-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #31",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 21,
+          "teams": [
+            {
+              "team": {
+                "id": 176188,
+                "name": "30134C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 88793,
+                "name": "9776C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 63,
+          "teams": [
+            {
+              "team": {
+                "id": 42355,
+                "name": "2323X",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188300,
+                "name": "8385W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372572,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 32,
+      "scheduled": "2025-11-08T12:41:10-05:00",
+      "started": "2025-11-08T12:54:35-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #32",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 40,
+          "teams": [
+            {
+              "team": {
+                "id": 52305,
+                "name": "9776A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 69,
+          "teams": [
+            {
+              "team": {
+                "id": 171032,
+                "name": "2054V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188715,
+                "name": "98548S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372573,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 33,
+      "scheduled": "2025-11-08T12:44:20-05:00",
+      "started": "2025-11-08T12:57:20-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #33",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 28,
+          "teams": [
+            {
+              "team": {
+                "id": 172945,
+                "name": "45538A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 159871,
+                "name": "2323H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 22,
+          "teams": [
+            {
+              "team": {
+                "id": 74633,
+                "name": "2131T",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 139503,
+                "name": "4691R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372574,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 34,
+      "scheduled": "2025-11-08T12:47:30-05:00",
+      "started": "2025-11-08T12:59:50-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #34",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 109,
+          "teams": [
+            {
+              "team": {
+                "id": 184935,
+                "name": "283K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 14,
+          "teams": [
+            {
+              "team": {
+                "id": 117676,
+                "name": "2323D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 166883,
+                "name": "30134B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372575,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 35,
+      "scheduled": "2025-11-08T12:50:40-05:00",
+      "started": "2025-11-08T13:02:59-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #35",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 50,
+          "teams": [
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190914,
+                "name": "2323J",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 8,
+          "teams": [
+            {
+              "team": {
+                "id": 177029,
+                "name": "55117A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 58194,
+                "name": "8385B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372576,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 36,
+      "scheduled": "2025-11-08T12:53:50-05:00",
+      "started": "2025-11-08T13:05:42-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #36",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 50,
+          "teams": [
+            {
+              "team": {
+                "id": 42355,
+                "name": "2323X",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188713,
+                "name": "98548R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 8,
+          "teams": [
+            {
+              "team": {
+                "id": 153183,
+                "name": "283S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190499,
+                "name": "98548T",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372577,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 37,
+      "scheduled": "2025-11-08T12:57:00-05:00",
+      "started": "2025-11-08T13:08:36-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #37",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 53,
+          "teams": [
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 97901,
+                "name": "8385C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 21,
+          "teams": [
+            {
+              "team": {
+                "id": 178043,
+                "name": "2323V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 176188,
+                "name": "30134C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372578,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 38,
+      "scheduled": "2025-11-08T13:00:00-05:00",
+      "started": "2025-11-08T13:11:08-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #38",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 107,
+          "teams": [
+            {
+              "team": {
+                "id": 74633,
+                "name": "2131T",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93662,
+                "name": "2131N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 29,
+          "teams": [
+            {
+              "team": {
+                "id": 52305,
+                "name": "9776A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93664,
+                "name": "2131U",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372579,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 39,
+      "scheduled": "2025-11-08T13:03:00-05:00",
+      "started": "2025-11-08T13:13:38-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #39",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 33,
+          "teams": [
+            {
+              "team": {
+                "id": 160102,
+                "name": "98548M",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 165381,
+                "name": "55117K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 75,
+          "teams": [
+            {
+              "team": {
+                "id": 117676,
+                "name": "2323D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372580,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 40,
+      "scheduled": "2025-11-08T13:06:00-05:00",
+      "started": "2025-11-08T13:16:22-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #40",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 15,
+          "teams": [
+            {
+              "team": {
+                "id": 174487,
+                "name": "45538B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 184804,
+                "name": "283V",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 63,
+          "teams": [
+            {
+              "team": {
+                "id": 184935,
+                "name": "283K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 88793,
+                "name": "9776C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372581,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 41,
+      "scheduled": "2025-11-08T13:09:00-05:00",
+      "started": "2025-11-08T13:23:02-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #41",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 13,
+          "teams": [
+            {
+              "team": {
+                "id": 139503,
+                "name": "4691R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 166883,
+                "name": "30134B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 13,
+          "teams": [
+            {
+              "team": {
+                "id": 117653,
+                "name": "2323R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 72475,
+                "name": "9776B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372582,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 42,
+      "scheduled": "2025-11-08T13:12:00-05:00",
+      "started": "2025-11-08T13:25:26-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #42",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 18,
+          "teams": [
+            {
+              "team": {
+                "id": 177029,
+                "name": "55117A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 176421,
+                "name": "55117Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 44,
+          "teams": [
+            {
+              "team": {
+                "id": 64853,
+                "name": "2131S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 172945,
+                "name": "45538A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372583,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 43,
+      "scheduled": "2025-11-08T13:15:00-05:00",
+      "started": "2025-11-08T13:28:11-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #43",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 23,
+          "teams": [
+            {
+              "team": {
+                "id": 58194,
+                "name": "8385B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188715,
+                "name": "98548S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 31,
+          "teams": [
+            {
+              "team": {
+                "id": 159871,
+                "name": "2323H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174246,
+                "name": "98548P",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372584,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 44,
+      "scheduled": "2025-11-08T13:18:00-05:00",
+      "started": "2025-11-08T13:30:35-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #44",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 110,
+          "teams": [
+            {
+              "team": {
+                "id": 171032,
+                "name": "2054V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 105694,
+                "name": "9776D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 15,
+          "teams": [
+            {
+              "team": {
+                "id": 59897,
+                "name": "2131F",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 141962,
+                "name": "9776G",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372585,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 45,
+      "scheduled": "2025-11-08T13:21:00-05:00",
+      "started": "2025-11-08T13:33:10-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #45",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 68,
+          "teams": [
+            {
+              "team": {
+                "id": 176439,
+                "name": "84075X",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 34,
+          "teams": [
+            {
+              "team": {
+                "id": 142581,
+                "name": "98548K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372586,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 46,
+      "scheduled": "2025-11-08T13:24:00-05:00",
+      "started": "2025-11-08T13:35:54-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #46",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 75,
+          "teams": [
+            {
+              "team": {
+                "id": 130284,
+                "name": "9776E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 9,
+          "teams": [
+            {
+              "team": {
+                "id": 186968,
+                "name": "11353E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188300,
+                "name": "8385W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372587,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 47,
+      "scheduled": "2025-11-08T13:27:00-05:00",
+      "started": "2025-11-08T13:38:37-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #47",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 15,
+          "teams": [
+            {
+              "team": {
+                "id": 176421,
+                "name": "55117Y",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 117676,
+                "name": "2323D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 115,
+          "teams": [
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93662,
+                "name": "2131N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372588,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 48,
+      "scheduled": "2025-11-08T13:30:00-05:00",
+      "started": "2025-11-08T13:41:10-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #48",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 18,
+          "teams": [
+            {
+              "team": {
+                "id": 165381,
+                "name": "55117K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 166883,
+                "name": "30134B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 71,
+          "teams": [
+            {
+              "team": {
+                "id": 178043,
+                "name": "2323V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 88793,
+                "name": "9776C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372589,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 49,
+      "scheduled": "2025-11-08T13:33:00-05:00",
+      "started": "2025-11-08T13:43:46-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #49",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 5,
+          "teams": [
+            {
+              "team": {
+                "id": 58194,
+                "name": "8385B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 105694,
+                "name": "9776D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 48,
+          "teams": [
+            {
+              "team": {
+                "id": 97901,
+                "name": "8385C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 72475,
+                "name": "9776B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372590,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 50,
+      "scheduled": "2025-11-08T13:36:00-05:00",
+      "started": "2025-11-08T13:46:38-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #50",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 12,
+          "teams": [
+            {
+              "team": {
+                "id": 74633,
+                "name": "2131T",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 184935,
+                "name": "283K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 124,
+          "teams": [
+            {
+              "team": {
+                "id": 171032,
+                "name": "2054V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190499,
+                "name": "98548T",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372591,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 51,
+      "scheduled": "2025-11-08T13:39:00-05:00",
+      "started": "2025-11-08T13:49:43-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #51",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 23,
+          "teams": [
+            {
+              "team": {
+                "id": 176188,
+                "name": "30134C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190914,
+                "name": "2323J",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 104,
+          "teams": [
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 59897,
+                "name": "2131F",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372592,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 52,
+      "scheduled": "2025-11-08T13:42:00-05:00",
+      "started": "2025-11-08T13:52:14-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #52",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 59,
+          "teams": [
+            {
+              "team": {
+                "id": 64853,
+                "name": "2131S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 42355,
+                "name": "2323X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 53,
+          "teams": [
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372593,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 53,
+      "scheduled": "2025-11-08T13:45:00-05:00",
+      "started": "2025-11-08T13:55:30-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #53",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 130284,
+                "name": "9776E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174487,
+                "name": "45538B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 145,
+          "teams": [
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188715,
+                "name": "98548S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372594,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 54,
+      "scheduled": "2025-11-08T13:48:00-05:00",
+      "started": "2025-11-08T13:58:20-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #54",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 31,
+          "teams": [
+            {
+              "team": {
+                "id": 186968,
+                "name": "11353E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 141962,
+                "name": "9776G",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 22,
+          "teams": [
+            {
+              "team": {
+                "id": 188713,
+                "name": "98548R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 177029,
+                "name": "55117A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372595,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 55,
+      "scheduled": "2025-11-08T13:51:00-05:00",
+      "started": "2025-11-08T14:00:50-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #55",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 28,
+          "teams": [
+            {
+              "team": {
+                "id": 52305,
+                "name": "9776A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 117653,
+                "name": "2323R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 48,
+          "teams": [
+            {
+              "team": {
+                "id": 176439,
+                "name": "84075X",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 184804,
+                "name": "283V",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372596,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 56,
+      "scheduled": "2025-11-08T13:54:00-05:00",
+      "started": "2025-11-08T14:03:10-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #56",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 74,
+          "teams": [
+            {
+              "team": {
+                "id": 172945,
+                "name": "45538A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188300,
+                "name": "8385W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 26,
+          "teams": [
+            {
+              "team": {
+                "id": 153183,
+                "name": "283S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 160102,
+                "name": "98548M",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372597,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 57,
+      "scheduled": "2025-11-08T13:57:00-05:00",
+      "started": "2025-11-08T14:05:39-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #57",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 46,
+          "teams": [
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174246,
+                "name": "98548P",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 44,
+          "teams": [
+            {
+              "team": {
+                "id": 142581,
+                "name": "98548K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 139503,
+                "name": "4691R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372598,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 58,
+      "scheduled": "2025-11-08T15:00:00-05:00",
+      "started": "2025-11-08T14:58:59-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #58",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 48,
+          "teams": [
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 34,
+          "teams": [
+            {
+              "team": {
+                "id": 93664,
+                "name": "2131U",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 159871,
+                "name": "2323H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372599,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 59,
+      "scheduled": "2025-11-08T15:03:00-05:00",
+      "started": "2025-11-08T15:02:20-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #59",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 130,
+          "teams": [
+            {
+              "team": {
+                "id": 88793,
+                "name": "9776C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 171032,
+                "name": "2054V",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 176421,
+                "name": "55117Y",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 186968,
+                "name": "11353E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372600,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 60,
+      "scheduled": "2025-11-08T15:06:00-05:00",
+      "started": "2025-11-08T15:05:11-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #60",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 44,
+          "teams": [
+            {
+              "team": {
+                "id": 188713,
+                "name": "98548R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93662,
+                "name": "2131N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 65,
+          "teams": [
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 105694,
+                "name": "9776D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372601,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 61,
+      "scheduled": "2025-11-08T15:09:00-05:00",
+      "started": "2025-11-08T15:10:10-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #61",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 8,
+          "teams": [
+            {
+              "team": {
+                "id": 160102,
+                "name": "98548M",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 72475,
+                "name": "9776B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 48,
+          "teams": [
+            {
+              "team": {
+                "id": 130284,
+                "name": "9776E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 42355,
+                "name": "2323X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372602,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 62,
+      "scheduled": "2025-11-08T15:12:00-05:00",
+      "started": "2025-11-08T15:16:14-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #62",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 16,
+          "teams": [
+            {
+              "team": {
+                "id": 166883,
+                "name": "30134B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174487,
+                "name": "45538B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 19,
+          "teams": [
+            {
+              "team": {
+                "id": 174246,
+                "name": "98548P",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 52305,
+                "name": "9776A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372603,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 63,
+      "scheduled": "2025-11-08T15:15:00-05:00",
+      "started": "2025-11-08T15:20:40-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #63",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 94,
+          "teams": [
+            {
+              "team": {
+                "id": 184804,
+                "name": "283V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 165381,
+                "name": "55117K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 14,
+          "teams": [
+            {
+              "team": {
+                "id": 58194,
+                "name": "8385B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 141962,
+                "name": "9776G",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372604,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 64,
+      "scheduled": "2025-11-08T15:18:00-05:00",
+      "started": "2025-11-08T15:23:31-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #64",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 53,
+          "teams": [
+            {
+              "team": {
+                "id": 139503,
+                "name": "4691R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 45,
+          "teams": [
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 178043,
+                "name": "2323V",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372605,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 65,
+      "scheduled": "2025-11-08T15:21:00-05:00",
+      "started": "2025-11-08T15:26:01-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #65",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 14,
+          "teams": [
+            {
+              "team": {
+                "id": 97901,
+                "name": "8385C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190914,
+                "name": "2323J",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 83,
+          "teams": [
+            {
+              "team": {
+                "id": 74633,
+                "name": "2131T",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 64853,
+                "name": "2131S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372606,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 66,
+      "scheduled": "2025-11-08T15:24:00-05:00",
+      "started": "2025-11-08T15:28:52-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #66",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 133,
+          "teams": [
+            {
+              "team": {
+                "id": 159871,
+                "name": "2323H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142581,
+                "name": "98548K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 0,
+          "teams": [
+            {
+              "team": {
+                "id": 176188,
+                "name": "30134C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 153183,
+                "name": "283S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372607,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 67,
+      "scheduled": "2025-11-08T15:27:00-05:00",
+      "started": "2025-11-08T15:31:37-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #67",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 78,
+          "teams": [
+            {
+              "team": {
+                "id": 59897,
+                "name": "2131F",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93664,
+                "name": "2131U",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 19,
+          "teams": [
+            {
+              "team": {
+                "id": 172945,
+                "name": "45538A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 117653,
+                "name": "2323R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372608,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 68,
+      "scheduled": "2025-11-08T15:30:00-05:00",
+      "started": "2025-11-08T15:34:10-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #68",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 59,
+          "teams": [
+            {
+              "team": {
+                "id": 188715,
+                "name": "98548S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 176439,
+                "name": "84075X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 24,
+          "teams": [
+            {
+              "team": {
+                "id": 190499,
+                "name": "98548T",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 117676,
+                "name": "2323D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372609,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 69,
+      "scheduled": "2025-11-08T15:33:00-05:00",
+      "started": "2025-11-08T15:36:44-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #69",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 76,
+          "teams": [
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 177029,
+                "name": "55117A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 34,
+          "teams": [
+            {
+              "team": {
+                "id": 188300,
+                "name": "8385W",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 184935,
+                "name": "283K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372610,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 70,
+      "scheduled": "2025-11-08T15:36:00-05:00",
+      "started": "2025-11-08T15:39:21-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #70",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 9,
+          "teams": [
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 130,
+          "teams": [
+            {
+              "team": {
+                "id": 171032,
+                "name": "2054V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 184804,
+                "name": "283V",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372611,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 71,
+      "scheduled": "2025-11-08T15:39:00-05:00",
+      "started": "2025-11-08T16:07:12-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #71",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 72,
+          "teams": [
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 160102,
+                "name": "98548M",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 41,
+          "teams": [
+            {
+              "team": {
+                "id": 93662,
+                "name": "2131N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 166883,
+                "name": "30134B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372612,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 72,
+      "scheduled": "2025-11-08T15:42:00-05:00",
+      "started": "2025-11-08T15:44:37-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #72",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 46,
+          "teams": [
+            {
+              "team": {
+                "id": 176421,
+                "name": "55117Y",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 20,
+          "teams": [
+            {
+              "team": {
+                "id": 174487,
+                "name": "45538B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 159871,
+                "name": "2323H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372613,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 73,
+      "scheduled": "2025-11-08T15:45:00-05:00",
+      "started": "2025-11-08T15:51:14-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #73",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 46,
+          "teams": [
+            {
+              "team": {
+                "id": 74633,
+                "name": "2131T",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 176188,
+                "name": "30134C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 14,
+          "teams": [
+            {
+              "team": {
+                "id": 141962,
+                "name": "9776G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 72475,
+                "name": "9776B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372614,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 74,
+      "scheduled": "2025-11-08T15:48:00-05:00",
+      "started": "2025-11-08T16:12:21-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #74",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 124,
+          "teams": [
+            {
+              "team": {
+                "id": 142581,
+                "name": "98548K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 64853,
+                "name": "2131S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 14,
+          "teams": [
+            {
+              "team": {
+                "id": 184935,
+                "name": "283K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 186968,
+                "name": "11353E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372615,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 75,
+      "scheduled": "2025-11-08T15:51:00-05:00",
+      "started": "2025-11-08T16:15:17-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #75",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 110,
+          "teams": [
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 176439,
+                "name": "84075X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 13,
+          "teams": [
+            {
+              "team": {
+                "id": 188713,
+                "name": "98548R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 172945,
+                "name": "45538A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372616,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 76,
+      "scheduled": "2025-11-08T15:54:00-05:00",
+      "started": "2025-11-08T16:17:55-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #76",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 81,
+          "teams": [
+            {
+              "team": {
+                "id": 177029,
+                "name": "55117A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 5,
+          "teams": [
+            {
+              "team": {
+                "id": 130284,
+                "name": "9776E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 88793,
+                "name": "9776C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372617,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 77,
+      "scheduled": "2025-11-08T15:57:00-05:00",
+      "started": "2025-11-08T16:20:31-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #77",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 13,
+          "teams": [
+            {
+              "team": {
+                "id": 93664,
+                "name": "2131U",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 139503,
+                "name": "4691R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 37,
+          "teams": [
+            {
+              "team": {
+                "id": 188715,
+                "name": "98548S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190914,
+                "name": "2323J",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372618,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 78,
+      "scheduled": "2025-11-08T16:00:00-05:00",
+      "started": "2025-11-08T16:22:57-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #78",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 28,
+          "teams": [
+            {
+              "team": {
+                "id": 117676,
+                "name": "2323D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 153183,
+                "name": "283S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 25,
+          "teams": [
+            {
+              "team": {
+                "id": 58194,
+                "name": "8385B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 117653,
+                "name": "2323R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372619,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 79,
+      "scheduled": "2025-11-08T16:03:00-05:00",
+      "started": "2025-11-08T16:25:32-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "Qualifier #79",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 25,
+          "teams": [
+            {
+              "team": {
+                "id": 52305,
+                "name": "9776A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190499,
+                "name": "98548T",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 82,
+          "teams": [
+            {
+              "team": {
+                "id": 97901,
+                "name": "8385C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 165381,
+                "name": "55117K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372620,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 80,
+      "scheduled": "2025-11-08T16:06:00-05:00",
+      "started": "2025-11-08T16:29:04-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Qualifier #80",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 44,
+          "teams": [
+            {
+              "team": {
+                "id": 178043,
+                "name": "2323V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174246,
+                "name": "98548P",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 32,
+          "teams": [
+            {
+              "team": {
+                "id": 42355,
+                "name": "2323X",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 59897,
+                "name": "2131F",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372621,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 81,
+      "scheduled": "2025-11-08T16:09:00-05:00",
+      "started": "2025-11-08T16:31:37-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "Qualifier #81",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 71,
+          "teams": [
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 55,
+          "teams": [
+            {
+              "team": {
+                "id": 188300,
+                "name": "8385W",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 105694,
+                "name": "9776D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372630,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 3,
+      "instance": 1,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-08T17:32:11-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "QF #1-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 27,
+          "teams": [
+            {
+              "team": {
+                "id": 97901,
+                "name": "8385C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 165381,
+                "name": "55117K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 95,
+          "teams": [
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93662,
+                "name": "2131N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372631,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 3,
+      "instance": 2,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-08T17:34:40-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "QF #2-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 3,
+          "teams": [
+            {
+              "team": {
+                "id": 42355,
+                "name": "2323X",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142581,
+                "name": "98548K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 52,
+          "teams": [
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372632,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 3,
+      "instance": 3,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-08T17:37:56-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "QF #3-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 42,
+          "teams": [
+            {
+              "team": {
+                "id": 188715,
+                "name": "98548S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 59897,
+                "name": "2131F",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 91,
+          "teams": [
+            {
+              "team": {
+                "id": 171032,
+                "name": "2054V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372633,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 3,
+      "instance": 4,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-08T17:39:53-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "QF #4-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 55,
+          "teams": [
+            {
+              "team": {
+                "id": 174246,
+                "name": "98548P",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 178043,
+                "name": "2323V",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 68,
+          "teams": [
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372634,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 4,
+      "instance": 1,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-08T17:49:00-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "SF #1-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 38,
+          "teams": [
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 95,
+          "teams": [
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93662,
+                "name": "2131N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372635,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 4,
+      "instance": 2,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-08T17:51:57-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "SF #2-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 32,
+          "teams": [
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 116,
+          "teams": [
+            {
+              "team": {
+                "id": 171032,
+                "name": "2054V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372636,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 5,
+      "instance": 1,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-08T18:04:21-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "Final #1-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 121,
+          "teams": [
+            {
+              "team": {
+                "id": 171032,
+                "name": "2054V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 18,
+          "teams": [
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93662,
+                "name": "2131N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372622,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 6,
+      "instance": 1,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-08T17:10:33-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "R16 #1-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 3,
+          "teams": [
+            {
+              "team": {
+                "id": 177029,
+                "name": "55117A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 184804,
+                "name": "283V",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 64,
+          "teams": [
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93662,
+                "name": "2131N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372623,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 6,
+      "instance": 2,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-08T17:12:59-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "R16 #2-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 42,
+          "teams": [
+            {
+              "team": {
+                "id": 184935,
+                "name": "283K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 88793,
+                "name": "9776C",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 71,
+          "teams": [
+            {
+              "team": {
+                "id": 97901,
+                "name": "8385C",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 165381,
+                "name": "55117K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372624,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 6,
+      "instance": 3,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-08T17:15:36-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "R16 #3-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 3,
+          "teams": [
+            {
+              "team": {
+                "id": 190914,
+                "name": "2323J",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93664,
+                "name": "2131U",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 100,
+          "teams": [
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372625,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 6,
+      "instance": 4,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-08T17:18:25-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "R16 #4-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 28,
+          "teams": [
+            {
+              "team": {
+                "id": 159871,
+                "name": "2323H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 160102,
+                "name": "98548M",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 90,
+          "teams": [
+            {
+              "team": {
+                "id": 42355,
+                "name": "2323X",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142581,
+                "name": "98548K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372626,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 6,
+      "instance": 5,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-08T17:21:15-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "R16 #5-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 23,
+          "teams": [
+            {
+              "team": {
+                "id": 188300,
+                "name": "8385W",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 105694,
+                "name": "9776D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 139,
+          "teams": [
+            {
+              "team": {
+                "id": 171032,
+                "name": "2054V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372627,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 6,
+      "instance": 6,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-08T17:23:48-05:00",
+      "field": "BESD Foundation",
+      "scored": false,
+      "name": "R16 #6-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 64,
+          "teams": [
+            {
+              "team": {
+                "id": 188715,
+                "name": "98548S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 59897,
+                "name": "2131F",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 39,
+          "teams": [
+            {
+              "team": {
+                "id": 64853,
+                "name": "2131S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 74633,
+                "name": "2131T",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372628,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 6,
+      "instance": 7,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-08T17:26:25-05:00",
+      "field": "Stem Action Center",
+      "scored": false,
+      "name": "R16 #7-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 14,
+          "teams": [
+            {
+              "team": {
+                "id": 172945,
+                "name": "45538A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 130284,
+                "name": "9776E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 101,
+          "teams": [
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    },
+    {
+      "id": 120372629,
+      "event": {
+        "id": 60581,
+        "name": "2025 Bear River Ice Cream Social: VEX V5 Robotics Competition, Blended HS\/MS, Remote Engineering Notebooks",
+        "code": "RE-V5RC-25-0581"
+      },
+      "division": {
+        "id": 1,
+        "name": "Default Division",
+        "code": null
+      },
+      "round": 6,
+      "instance": 8,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-08T17:28:50-05:00",
+      "field": "Sierra Homes",
+      "scored": false,
+      "name": "R16 #8-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 54,
+          "teams": [
+            {
+              "team": {
+                "id": 176439,
+                "name": "84075X",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190499,
+                "name": "98548T",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 117,
+          "teams": [
+            {
+              "team": {
+                "id": 174246,
+                "name": "98548P",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 178043,
+                "name": "2323V",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-08T18:21:20-05:00"
+    }
+  ]
+}

@@ -1,0 +1,4981 @@
+{
+  "meta": {
+    "current_page": 1,
+    "first_page_url": "https:\/\/www.robotevents.com\/api\/v2\/events\/61483\/divisions\/1\/matches?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "https:\/\/www.robotevents.com\/api\/v2\/events\/61483\/divisions\/1\/matches?page=1",
+    "next_page_url": null,
+    "path": "https:\/\/www.robotevents.com\/api\/v2\/events\/61483\/divisions\/1\/matches",
+    "per_page": 250,
+    "prev_page_url": null,
+    "to": 73,
+    "total": 73
+  },
+  "data": [
+    {
+      "id": 121467452,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 1,
+      "scheduled": "2025-11-15T11:30:00-05:00",
+      "started": "2025-11-15T11:29:24-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 93,
+          "teams": [
+            {
+              "team": {
+                "id": 64853,
+                "name": "2131S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 176439,
+                "name": "84075X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 28,
+          "teams": [
+            {
+              "team": {
+                "id": 190499,
+                "name": "98548T",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 167470,
+                "name": "55116A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467453,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 2,
+      "scheduled": "2025-11-15T11:34:00-05:00",
+      "started": "2025-11-15T11:32:13-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #2",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 30,
+          "teams": [
+            {
+              "team": {
+                "id": 117676,
+                "name": "2323D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 159871,
+                "name": "2323H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 23,
+          "teams": [
+            {
+              "team": {
+                "id": 186968,
+                "name": "11353E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 159073,
+                "name": "50438A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467454,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 3,
+      "scheduled": "2025-11-15T11:38:00-05:00",
+      "started": "2025-11-15T11:36:12-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #3",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 11,
+          "teams": [
+            {
+              "team": {
+                "id": 174868,
+                "name": "84075Y",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174246,
+                "name": "98548P",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 127,
+          "teams": [
+            {
+              "team": {
+                "id": 142581,
+                "name": "98548K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467455,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 4,
+      "scheduled": "2025-11-15T11:42:00-05:00",
+      "started": "2025-11-15T11:39:47-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #4",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 88,
+          "teams": [
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 59897,
+                "name": "2131F",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 30,
+          "teams": [
+            {
+              "team": {
+                "id": 176421,
+                "name": "55117Y",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467456,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 5,
+      "scheduled": "2025-11-15T11:46:00-05:00",
+      "started": "2025-11-15T11:42:09-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #5",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 32,
+          "teams": [
+            {
+              "team": {
+                "id": 190914,
+                "name": "2323J",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 73,
+          "teams": [
+            {
+              "team": {
+                "id": 165381,
+                "name": "55117K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467457,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 6,
+      "scheduled": "2025-11-15T11:50:00-05:00",
+      "started": "2025-11-15T11:46:02-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #6",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 25,
+          "teams": [
+            {
+              "team": {
+                "id": 174487,
+                "name": "45538B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 172945,
+                "name": "45538A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 41,
+          "teams": [
+            {
+              "team": {
+                "id": 188713,
+                "name": "98548R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 177029,
+                "name": "55117A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467458,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 7,
+      "scheduled": "2025-11-15T11:54:00-05:00",
+      "started": "2025-11-15T11:49:06-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #7",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 55,
+          "teams": [
+            {
+              "team": {
+                "id": 178043,
+                "name": "2323V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 73,
+          "teams": [
+            {
+              "team": {
+                "id": 160102,
+                "name": "98548M",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 42355,
+                "name": "2323X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467459,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 8,
+      "scheduled": "2025-11-15T11:58:00-05:00",
+      "started": "2025-11-15T11:52:25-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #8",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 48,
+          "teams": [
+            {
+              "team": {
+                "id": 93664,
+                "name": "2131U",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188715,
+                "name": "98548S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 17,
+          "teams": [
+            {
+              "team": {
+                "id": 117653,
+                "name": "2323R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 192776,
+                "name": "84075R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467460,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 9,
+      "scheduled": "2025-11-15T12:02:00-05:00",
+      "started": "2025-11-15T11:55:33-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #9",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 107,
+          "teams": [
+            {
+              "team": {
+                "id": 142581,
+                "name": "98548K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 45,
+          "teams": [
+            {
+              "team": {
+                "id": 74633,
+                "name": "2131T",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 176439,
+                "name": "84075X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467461,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 10,
+      "scheduled": "2025-11-15T12:06:00-05:00",
+      "started": "2025-11-15T11:58:27-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #10",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 20,
+          "teams": [
+            {
+              "team": {
+                "id": 159073,
+                "name": "50438A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190499,
+                "name": "98548T",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 34,
+          "teams": [
+            {
+              "team": {
+                "id": 174246,
+                "name": "98548P",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 176421,
+                "name": "55117Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467462,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 11,
+      "scheduled": "2025-11-15T12:10:00-05:00",
+      "started": "2025-11-15T12:01:06-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #11",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 96,
+          "teams": [
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 45,
+          "teams": [
+            {
+              "team": {
+                "id": 178043,
+                "name": "2323V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 159871,
+                "name": "2323H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467463,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 12,
+      "scheduled": "2025-11-15T12:14:00-05:00",
+      "started": "2025-11-15T12:03:55-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #12",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 17,
+          "teams": [
+            {
+              "team": {
+                "id": 42355,
+                "name": "2323X",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 177029,
+                "name": "55117A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 70,
+          "teams": [
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 186968,
+                "name": "11353E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467464,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 13,
+      "scheduled": "2025-11-15T12:18:00-05:00",
+      "started": "2025-11-15T12:06:28-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #13",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 56,
+          "teams": [
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 117676,
+                "name": "2323D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 19,
+          "teams": [
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188715,
+                "name": "98548S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467465,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 14,
+      "scheduled": "2025-11-15T12:22:00-05:00",
+      "started": "2025-11-15T12:12:26-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #14",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 81,
+          "teams": [
+            {
+              "team": {
+                "id": 192776,
+                "name": "84075R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 165381,
+                "name": "55117K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 43,
+          "teams": [
+            {
+              "team": {
+                "id": 172945,
+                "name": "45538A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 64853,
+                "name": "2131S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467466,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 15,
+      "scheduled": "2025-11-15T12:26:00-05:00",
+      "started": "2025-11-15T12:12:38-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #15",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 11,
+          "teams": [
+            {
+              "team": {
+                "id": 188713,
+                "name": "98548R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 160102,
+                "name": "98548M",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 28,
+          "teams": [
+            {
+              "team": {
+                "id": 93664,
+                "name": "2131U",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190914,
+                "name": "2323J",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467467,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 16,
+      "scheduled": "2025-11-15T12:30:00-05:00",
+      "started": "2025-11-15T12:15:42-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #16",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 76,
+          "teams": [
+            {
+              "team": {
+                "id": 117653,
+                "name": "2323R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 74633,
+                "name": "2131T",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 8,
+          "teams": [
+            {
+              "team": {
+                "id": 174487,
+                "name": "45538B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 167470,
+                "name": "55116A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467468,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 17,
+      "scheduled": "2025-11-15T12:34:00-05:00",
+      "started": "2025-11-15T12:18:10-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #17",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 25,
+          "teams": [
+            {
+              "team": {
+                "id": 159073,
+                "name": "50438A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188715,
+                "name": "98548S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 109,
+          "teams": [
+            {
+              "team": {
+                "id": 59897,
+                "name": "2131F",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174868,
+                "name": "84075Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467469,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 18,
+      "scheduled": "2025-11-15T12:38:00-05:00",
+      "started": "2025-11-15T12:21:45-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #18",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 34,
+          "teams": [
+            {
+              "team": {
+                "id": 176421,
+                "name": "55117Y",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 59,
+          "teams": [
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 172945,
+                "name": "45538A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467470,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 19,
+      "scheduled": "2025-11-15T12:42:00-05:00",
+      "started": "2025-11-15T12:24:04-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #19",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 3,
+          "teams": [
+            {
+              "team": {
+                "id": 188713,
+                "name": "98548R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190499,
+                "name": "98548T",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 122,
+          "teams": [
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 159871,
+                "name": "2323H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467471,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 20,
+      "scheduled": "2025-11-15T12:46:00-05:00",
+      "started": "2025-11-15T12:27:25-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #20",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 61,
+          "teams": [
+            {
+              "team": {
+                "id": 177029,
+                "name": "55117A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 176439,
+                "name": "84075X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 58,
+          "teams": [
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190914,
+                "name": "2323J",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467472,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 21,
+      "scheduled": "2025-11-15T12:50:00-05:00",
+      "started": "2025-11-15T12:29:47-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #21",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 50,
+          "teams": [
+            {
+              "team": {
+                "id": 160102,
+                "name": "98548M",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 117653,
+                "name": "2323R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 56,
+          "teams": [
+            {
+              "team": {
+                "id": 165381,
+                "name": "55117K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174246,
+                "name": "98548P",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467473,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 22,
+      "scheduled": "2025-11-15T12:54:00-05:00",
+      "started": "2025-11-15T12:33:18-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #22",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 17,
+          "teams": [
+            {
+              "team": {
+                "id": 167470,
+                "name": "55116A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93664,
+                "name": "2131U",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 90,
+          "teams": [
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467474,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 23,
+      "scheduled": "2025-11-15T12:58:00-05:00",
+      "started": "2025-11-15T12:35:40-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #23",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 86,
+          "teams": [
+            {
+              "team": {
+                "id": 186968,
+                "name": "11353E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142581,
+                "name": "98548K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 45,
+          "teams": [
+            {
+              "team": {
+                "id": 174487,
+                "name": "45538B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 178043,
+                "name": "2323V",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467475,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 24,
+      "scheduled": "2025-11-15T13:02:00-05:00",
+      "started": "2025-11-15T12:38:42-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #24",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 33,
+          "teams": [
+            {
+              "team": {
+                "id": 64853,
+                "name": "2131S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 74633,
+                "name": "2131T",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 74,
+          "teams": [
+            {
+              "team": {
+                "id": 42355,
+                "name": "2323X",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 59897,
+                "name": "2131F",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467476,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 25,
+      "scheduled": "2025-11-15T13:06:00-05:00",
+      "started": "2025-11-15T12:41:08-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #25",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 107,
+          "teams": [
+            {
+              "team": {
+                "id": 174868,
+                "name": "84075Y",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 11,
+          "teams": [
+            {
+              "team": {
+                "id": 117676,
+                "name": "2323D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 192776,
+                "name": "84075R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467477,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 26,
+      "scheduled": "2025-11-15T13:10:00-05:00",
+      "started": "2025-11-15T12:44:17-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #26",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 3,
+          "teams": [
+            {
+              "team": {
+                "id": 174246,
+                "name": "98548P",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 167470,
+                "name": "55116A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 47,
+          "teams": [
+            {
+              "team": {
+                "id": 188715,
+                "name": "98548S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 159871,
+                "name": "2323H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467478,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 27,
+      "scheduled": "2025-11-15T13:14:00-05:00",
+      "started": "2025-11-15T12:46:38-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #27",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 45,
+          "teams": [
+            {
+              "team": {
+                "id": 178043,
+                "name": "2323V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 165381,
+                "name": "55117K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 35,
+          "teams": [
+            {
+              "team": {
+                "id": 186968,
+                "name": "11353E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467479,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 28,
+      "scheduled": "2025-11-15T13:18:00-05:00",
+      "started": "2025-11-15T12:49:24-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #28",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 89,
+          "teams": [
+            {
+              "team": {
+                "id": 59897,
+                "name": "2131F",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174487,
+                "name": "45538B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 50,
+          "teams": [
+            {
+              "team": {
+                "id": 160102,
+                "name": "98548M",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190499,
+                "name": "98548T",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467480,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 29,
+      "scheduled": "2025-11-15T13:22:00-05:00",
+      "started": "2025-11-15T12:51:57-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #29",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 75,
+          "teams": [
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 176421,
+                "name": "55117Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 15,
+          "teams": [
+            {
+              "team": {
+                "id": 117653,
+                "name": "2323R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467481,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 30,
+      "scheduled": "2025-11-15T13:26:00-05:00",
+      "started": "2025-11-15T12:55:46-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #30",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 74,
+          "teams": [
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188713,
+                "name": "98548R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 12,
+          "teams": [
+            {
+              "team": {
+                "id": 176439,
+                "name": "84075X",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 117676,
+                "name": "2323D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467482,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 31,
+      "scheduled": "2025-11-15T13:30:00-05:00",
+      "started": "2025-11-15T12:58:09-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #31",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 12,
+          "teams": [
+            {
+              "team": {
+                "id": 42355,
+                "name": "2323X",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 172945,
+                "name": "45538A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 110,
+          "teams": [
+            {
+              "team": {
+                "id": 142581,
+                "name": "98548K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93664,
+                "name": "2131U",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467483,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 32,
+      "scheduled": "2025-11-15T13:34:00-05:00",
+      "started": "2025-11-15T13:01:10-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #32",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 82,
+          "teams": [
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 64853,
+                "name": "2131S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 30,
+          "teams": [
+            {
+              "team": {
+                "id": 177029,
+                "name": "55117A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174868,
+                "name": "84075Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467484,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 33,
+      "scheduled": "2025-11-15T13:38:00-05:00",
+      "started": "2025-11-15T13:03:33-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #33",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 22,
+          "teams": [
+            {
+              "team": {
+                "id": 192776,
+                "name": "84075R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190914,
+                "name": "2323J",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 29,
+          "teams": [
+            {
+              "team": {
+                "id": 159073,
+                "name": "50438A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 74633,
+                "name": "2131T",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467485,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 34,
+      "scheduled": "2025-11-15T13:42:00-05:00",
+      "started": "2025-11-15T13:06:39-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #34",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 87,
+          "teams": [
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 49,
+          "teams": [
+            {
+              "team": {
+                "id": 167470,
+                "name": "55116A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 160102,
+                "name": "98548M",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467486,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 35,
+      "scheduled": "2025-11-15T13:46:00-05:00",
+      "started": "2025-11-15T13:09:11-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #35",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 74,
+          "teams": [
+            {
+              "team": {
+                "id": 188715,
+                "name": "98548S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 165381,
+                "name": "55117K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 12,
+          "teams": [
+            {
+              "team": {
+                "id": 188713,
+                "name": "98548R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 42355,
+                "name": "2323X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467487,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 36,
+      "scheduled": "2025-11-15T13:50:00-05:00",
+      "started": "2025-11-15T13:12:15-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #36",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 25,
+          "teams": [
+            {
+              "team": {
+                "id": 174246,
+                "name": "98548P",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 117676,
+                "name": "2323D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 47,
+          "teams": [
+            {
+              "team": {
+                "id": 64853,
+                "name": "2131S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174487,
+                "name": "45538B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467488,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 37,
+      "scheduled": "2025-11-15T13:54:00-05:00",
+      "started": "2025-11-15T13:14:42-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #37",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 100,
+          "teams": [
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174868,
+                "name": "84075Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 14,
+          "teams": [
+            {
+              "team": {
+                "id": 74633,
+                "name": "2131T",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190499,
+                "name": "98548T",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467489,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 38,
+      "scheduled": "2025-11-15T13:58:00-05:00",
+      "started": "2025-11-15T13:17:57-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #38",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 25,
+          "teams": [
+            {
+              "team": {
+                "id": 59897,
+                "name": "2131F",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 192776,
+                "name": "84075R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 93,
+          "teams": [
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142581,
+                "name": "98548K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467490,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 39,
+      "scheduled": "2025-11-15T15:00:00-05:00",
+      "started": "2025-11-15T13:20:37-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #39",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 118,
+          "teams": [
+            {
+              "team": {
+                "id": 172945,
+                "name": "45538A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 24,
+          "teams": [
+            {
+              "team": {
+                "id": 178043,
+                "name": "2323V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 159073,
+                "name": "50438A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467491,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 40,
+      "scheduled": "2025-11-15T15:04:00-05:00",
+      "started": "2025-11-15T13:24:07-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #40",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 33,
+          "teams": [
+            {
+              "team": {
+                "id": 186968,
+                "name": "11353E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 117653,
+                "name": "2323R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 56,
+          "teams": [
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190914,
+                "name": "2323J",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467492,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 41,
+      "scheduled": "2025-11-15T15:08:00-05:00",
+      "started": "2025-11-15T13:26:33-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #41",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 50,
+          "teams": [
+            {
+              "team": {
+                "id": 93664,
+                "name": "2131U",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 159871,
+                "name": "2323H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 22,
+          "teams": [
+            {
+              "team": {
+                "id": 176421,
+                "name": "55117Y",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 177029,
+                "name": "55117A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467493,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 42,
+      "scheduled": "2025-11-15T15:12:00-05:00",
+      "started": "2025-11-15T13:29:52-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #42",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 46,
+          "teams": [
+            {
+              "team": {
+                "id": 174487,
+                "name": "45538B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 43,
+          "teams": [
+            {
+              "team": {
+                "id": 176439,
+                "name": "84075X",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188715,
+                "name": "98548S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467494,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 43,
+      "scheduled": "2025-11-15T15:16:00-05:00",
+      "started": "2025-11-15T13:32:42-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #43",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 115,
+          "teams": [
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 64853,
+                "name": "2131S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 9,
+          "teams": [
+            {
+              "team": {
+                "id": 188713,
+                "name": "98548R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174868,
+                "name": "84075Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467495,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 44,
+      "scheduled": "2025-11-15T15:20:00-05:00",
+      "started": "2025-11-15T13:35:31-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #44",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 41,
+          "teams": [
+            {
+              "team": {
+                "id": 190499,
+                "name": "98548T",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 42355,
+                "name": "2323X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 34,
+          "teams": [
+            {
+              "team": {
+                "id": 192776,
+                "name": "84075R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467496,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 45,
+      "scheduled": "2025-11-15T15:24:00-05:00",
+      "started": "2025-11-15T13:37:54-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #45",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 47,
+          "teams": [
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 186968,
+                "name": "11353E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 28,
+          "teams": [
+            {
+              "team": {
+                "id": 93664,
+                "name": "2131U",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174246,
+                "name": "98548P",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467497,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 46,
+      "scheduled": "2025-11-15T15:28:00-05:00",
+      "started": "2025-11-15T13:40:36-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #46",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 9,
+          "teams": [
+            {
+              "team": {
+                "id": 159073,
+                "name": "50438A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 177029,
+                "name": "55117A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 106,
+          "teams": [
+            {
+              "team": {
+                "id": 117653,
+                "name": "2323R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 142581,
+                "name": "98548K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467498,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 47,
+      "scheduled": "2025-11-15T15:32:00-05:00",
+      "started": "2025-11-15T13:43:02-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #47",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 26,
+          "teams": [
+            {
+              "team": {
+                "id": 165381,
+                "name": "55117K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 176439,
+                "name": "84075X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 110,
+          "teams": [
+            {
+              "team": {
+                "id": 59897,
+                "name": "2131F",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467499,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 48,
+      "scheduled": "2025-11-15T15:36:00-05:00",
+      "started": "2025-11-15T13:45:33-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #48",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 67,
+          "teams": [
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 159871,
+                "name": "2323H",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 14,
+          "teams": [
+            {
+              "team": {
+                "id": 172945,
+                "name": "45538A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 160102,
+                "name": "98548M",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467500,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 49,
+      "scheduled": "2025-11-15T15:40:00-05:00",
+      "started": "2025-11-15T13:48:41-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #49",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 6,
+          "teams": [
+            {
+              "team": {
+                "id": 176421,
+                "name": "55117Y",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 74633,
+                "name": "2131T",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 48,
+          "teams": [
+            {
+              "team": {
+                "id": 117676,
+                "name": "2323D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 178043,
+                "name": "2323V",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467501,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 50,
+      "scheduled": "2025-11-15T15:44:00-05:00",
+      "started": "2025-11-15T13:51:12-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #50",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 62,
+          "teams": [
+            {
+              "team": {
+                "id": 42355,
+                "name": "2323X",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174868,
+                "name": "84075Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 8,
+          "teams": [
+            {
+              "team": {
+                "id": 167470,
+                "name": "55116A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190914,
+                "name": "2323J",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467502,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 51,
+      "scheduled": "2025-11-15T15:48:00-05:00",
+      "started": "2025-11-15T15:03:46-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #51",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 15,
+          "teams": [
+            {
+              "team": {
+                "id": 190499,
+                "name": "98548T",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188715,
+                "name": "98548S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 83,
+          "teams": [
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 186968,
+                "name": "11353E",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467503,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 52,
+      "scheduled": "2025-11-15T15:52:00-05:00",
+      "started": "2025-11-15T15:06:06-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #52",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 38,
+          "teams": [
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174487,
+                "name": "45538B",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 69,
+          "teams": [
+            {
+              "team": {
+                "id": 117653,
+                "name": "2323R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467504,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 53,
+      "scheduled": "2025-11-15T15:56:00-05:00",
+      "started": "2025-11-15T15:08:46-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #53",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 47,
+          "teams": [
+            {
+              "team": {
+                "id": 178043,
+                "name": "2323V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 192776,
+                "name": "84075R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 26,
+          "teams": [
+            {
+              "team": {
+                "id": 177029,
+                "name": "55117A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174246,
+                "name": "98548P",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467505,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 54,
+      "scheduled": "2025-11-15T16:00:00-05:00",
+      "started": "2025-11-15T15:11:48-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #54",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 35,
+          "teams": [
+            {
+              "team": {
+                "id": 142581,
+                "name": "98548K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 190914,
+                "name": "2323J",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 68,
+          "teams": [
+            {
+              "team": {
+                "id": 159871,
+                "name": "2323H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 64853,
+                "name": "2131S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467506,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 55,
+      "scheduled": "2025-11-15T16:04:00-05:00",
+      "started": "2025-11-15T15:15:30-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #55",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 69,
+          "teams": [
+            {
+              "team": {
+                "id": 74633,
+                "name": "2131T",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 22,
+          "teams": [
+            {
+              "team": {
+                "id": 188713,
+                "name": "98548R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467507,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 56,
+      "scheduled": "2025-11-15T16:08:00-05:00",
+      "started": "2025-11-15T15:17:43-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #56",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 6,
+          "teams": [
+            {
+              "team": {
+                "id": 93664,
+                "name": "2131U",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 159073,
+                "name": "50438A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 99,
+          "teams": [
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 165381,
+                "name": "55117K",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467508,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 57,
+      "scheduled": "2025-11-15T16:12:00-05:00",
+      "started": "2025-11-15T15:20:47-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Qualifier #57",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 33,
+          "teams": [
+            {
+              "team": {
+                "id": 117676,
+                "name": "2323D",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 167470,
+                "name": "55116A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 99,
+          "teams": [
+            {
+              "team": {
+                "id": 172945,
+                "name": "45538A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 59897,
+                "name": "2131F",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467509,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 2,
+      "instance": 1,
+      "matchnum": 58,
+      "scheduled": "2025-11-15T16:16:00-05:00",
+      "started": "2025-11-15T15:23:20-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "Qualifier #58",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 32,
+          "teams": [
+            {
+              "team": {
+                "id": 160102,
+                "name": "98548M",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 192776,
+                "name": "84075R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 22,
+          "teams": [
+            {
+              "team": {
+                "id": 176421,
+                "name": "55117Y",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 176439,
+                "name": "84075X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467518,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 3,
+      "instance": 1,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-15T16:22:41-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "QF #1-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 25,
+          "teams": [
+            {
+              "team": {
+                "id": 93664,
+                "name": "2131U",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188715,
+                "name": "98548S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 90,
+          "teams": [
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467519,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 3,
+      "instance": 2,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-15T16:26:14-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "QF #2-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 102,
+          "teams": [
+            {
+              "team": {
+                "id": 59897,
+                "name": "2131F",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 38,
+          "teams": [
+            {
+              "team": {
+                "id": 165381,
+                "name": "55117K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 42355,
+                "name": "2323X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467520,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 3,
+      "instance": 3,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-15T16:28:54-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "QF #3-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 14,
+          "teams": [
+            {
+              "team": {
+                "id": 178043,
+                "name": "2323V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 117653,
+                "name": "2323R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 118,
+          "teams": [
+            {
+              "team": {
+                "id": 142581,
+                "name": "98548K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467521,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 3,
+      "instance": 4,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-15T16:32:19-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "QF #4-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 79,
+          "teams": [
+            {
+              "team": {
+                "id": 64853,
+                "name": "2131S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 44,
+          "teams": [
+            {
+              "team": {
+                "id": 159871,
+                "name": "2323H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467522,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 4,
+      "instance": 1,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-15T16:36:02-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "SF #1-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 52,
+          "teams": [
+            {
+              "team": {
+                "id": 59897,
+                "name": "2131F",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 72,
+          "teams": [
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467523,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 4,
+      "instance": 2,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-15T16:40:18-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "SF #2-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 62,
+          "teams": [
+            {
+              "team": {
+                "id": 64853,
+                "name": "2131S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 60,
+          "teams": [
+            {
+              "team": {
+                "id": 142581,
+                "name": "98548K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467524,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 5,
+      "instance": 1,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-15T16:52:44-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "Final #1-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 20,
+          "teams": [
+            {
+              "team": {
+                "id": 64853,
+                "name": "2131S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 69,
+          "teams": [
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467510,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 6,
+      "instance": 1,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-15T16:00:35-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "R16 #1-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 17,
+          "teams": [
+            {
+              "team": {
+                "id": 190499,
+                "name": "98548T",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 159073,
+                "name": "50438A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 118,
+          "teams": [
+            {
+              "team": {
+                "id": 136735,
+                "name": "98548H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 68256,
+                "name": "2131W",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467511,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 6,
+      "instance": 2,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-15T16:02:53-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "R16 #2-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 6,
+          "teams": [
+            {
+              "team": {
+                "id": 174487,
+                "name": "45538B",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 176439,
+                "name": "84075X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 31,
+          "teams": [
+            {
+              "team": {
+                "id": 93664,
+                "name": "2131U",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 188715,
+                "name": "98548S",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467512,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 6,
+      "instance": 3,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-15T16:06:26-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "R16 #3-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 14,
+          "teams": [
+            {
+              "team": {
+                "id": 160102,
+                "name": "98548M",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 176421,
+                "name": "55117Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 84,
+          "teams": [
+            {
+              "team": {
+                "id": 165381,
+                "name": "55117K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 42355,
+                "name": "2323X",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467513,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 6,
+      "instance": 4,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-15T16:08:54-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "R16 #4-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 26,
+          "teams": [
+            {
+              "team": {
+                "id": 74633,
+                "name": "2131T",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 192776,
+                "name": "84075R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 118,
+          "teams": [
+            {
+              "team": {
+                "id": 59897,
+                "name": "2131F",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 107414,
+                "name": "98548D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467514,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 6,
+      "instance": 5,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-15T16:11:34-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "R16 #5-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 6,
+          "teams": [
+            {
+              "team": {
+                "id": 190914,
+                "name": "2323J",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174246,
+                "name": "98548P",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 115,
+          "teams": [
+            {
+              "team": {
+                "id": 142581,
+                "name": "98548K",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 93665,
+                "name": "2131Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467515,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 6,
+      "instance": 6,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-15T16:17:07-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "R16 #6-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 42,
+          "teams": [
+            {
+              "team": {
+                "id": 178043,
+                "name": "2323V",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 117653,
+                "name": "2323R",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 29,
+          "teams": [
+            {
+              "team": {
+                "id": 186968,
+                "name": "11353E",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 174868,
+                "name": "84075Y",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467516,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 6,
+      "instance": 7,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-15T16:17:36-05:00",
+      "field": "Blue",
+      "scored": false,
+      "name": "R16 #7-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 6,
+          "teams": [
+            {
+              "team": {
+                "id": 188713,
+                "name": "98548R",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 177029,
+                "name": "55117A",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 130,
+          "teams": [
+            {
+              "team": {
+                "id": 159871,
+                "name": "2323H",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 130609,
+                "name": "98548G",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    },
+    {
+      "id": 121467517,
+      "event": {
+        "id": 61483,
+        "name": "Fremont Frenzy: VEX V5 Robotics Competition, Blended HS\/MS, Digital Notebook Submission",
+        "code": "RE-V5RC-25-1483"
+      },
+      "division": {
+        "id": 1,
+        "name": "Division 1",
+        "code": null
+      },
+      "round": 6,
+      "instance": 8,
+      "matchnum": 1,
+      "scheduled": null,
+      "started": "2025-11-15T16:20:12-05:00",
+      "field": "Silver",
+      "scored": false,
+      "name": "R16 #8-1",
+      "alliances": [
+        {
+          "color": "blue",
+          "score": 17,
+          "teams": [
+            {
+              "team": {
+                "id": 172945,
+                "name": "45538A",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 117676,
+                "name": "2323D",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        },
+        {
+          "color": "red",
+          "score": 78,
+          "teams": [
+            {
+              "team": {
+                "id": 64853,
+                "name": "2131S",
+                "code": null
+              },
+              "sitting": false
+            },
+            {
+              "team": {
+                "id": 163968,
+                "name": "98548N",
+                "code": null
+              },
+              "sitting": false
+            }
+          ]
+        }
+      ],
+      "updated_at": "2025-11-15T17:14:35-05:00"
+    }
+  ]
+}
