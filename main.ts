@@ -1,3 +1,4 @@
+import { basename } from "jsr:@std/path";
 
 type Match = {
     id: number
@@ -80,7 +81,7 @@ async function calculateTimeDifference(filepath: string) {
 
     return {
         EventCode: matches[0].event.code,
-        EventName: filepath.replace('./events/', '').replace('.json', ''),
+        FileName: basename(filepath, '.json'),
         AverageCycleTimeSec,
         AverageCycleTime,
         QualTimesSec: matchCycleTimeSeconds,
@@ -88,7 +89,7 @@ async function calculateTimeDifference(filepath: string) {
     }
 }
 const output: any = []
-const paths = await listJsonFiles('./events')
+const paths = await listJsonFiles('./2025-26-events')
 for (const path of paths) {
     const o = await calculateTimeDifference(path)
     output.push(o)

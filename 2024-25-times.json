@@ -1,7 +1,7 @@
 [
   {
     "EventCode": "RE-V5RC-24-6272",
-    "EventName": "2024-11-02-br",
+    "FileName": "2024-11-02-br",
     "AverageCycleTimeSec": 204.27941176470588,
     "AverageCycleTime": "03:24",
     "QualTimesSec": [
@@ -15,7 +15,7 @@
   },
   {
     "EventCode": "RE-V5RC-24-7934",
-    "EventName": "2024-11-09-murray",
+    "FileName": "2024-11-09-murray",
     "AverageCycleTimeSec": 201.3877551020408,
     "AverageCycleTime": "03:21",
     "QualTimesSec": [
@@ -28,7 +28,7 @@
   },
   {
     "EventCode": "RE-V5RC-24-6906",
-    "EventName": "2024-12-07-heber",
+    "FileName": "2024-12-07-heber",
     "AverageCycleTimeSec": 210.2622950819672,
     "AverageCycleTime": "03:30",
     "QualTimesSec": [
@@ -42,7 +42,7 @@
   },
   {
     "EventCode": "RE-V5RC-24-8200",
-    "EventName": "2024-12-14-wic",
+    "FileName": "2024-12-14-wic",
     "AverageCycleTimeSec": 225.43548387096774,
     "AverageCycleTime": "03:45",
     "QualTimesSec": [
@@ -56,7 +56,7 @@
   },
   {
     "EventCode": "RE-V5RC-24-7985",
-    "EventName": "2025-01-11-usu",
+    "FileName": "2025-01-11-usu",
     "AverageCycleTimeSec": 197.27631578947367,
     "AverageCycleTime": "03:17",
     "QualTimesSec": [
@@ -71,7 +71,7 @@
   },
   {
     "EventCode": "RE-V5RC-24-8745",
-    "EventName": "2025-01-18-fremont",
+    "FileName": "2025-01-18-fremont",
     "AverageCycleTimeSec": 189.39622641509433,
     "AverageCycleTime": "03:09",
     "QualTimesSec": [
@@ -84,7 +84,7 @@
   },
   {
     "EventCode": "RE-V5RC-24-6156",
-    "EventName": "2025-02-15-syracuse",
+    "FileName": "2025-02-15-syracuse",
     "AverageCycleTimeSec": 184.8421052631579,
     "AverageCycleTime": "03:04",
     "QualTimesSec": [
@@ -97,7 +97,7 @@
   },
   {
     "EventCode": "RE-V5RC-24-6998",
-    "EventName": "2025-02-22-dhs",
+    "FileName": "2025-02-22-dhs",
     "AverageCycleTimeSec": 184.96875,
     "AverageCycleTime": "03:04",
     "QualTimesSec": [
